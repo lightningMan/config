@@ -1,0 +1,963 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+ACCUM_OUTER_PRODUCT_2X2	/System/Library/Frameworks/GLUT.framework/Headers/vvector.h	998;"	d
+ACCUM_OUTER_PRODUCT_3X3	/System/Library/Frameworks/GLUT.framework/Headers/vvector.h	1014;"	d
+ACCUM_OUTER_PRODUCT_4X4	/System/Library/Frameworks/GLUT.framework/Headers/vvector.h	1036;"	d
+ACCUM_SCALE_MATRIX_2X2	/System/Library/Frameworks/GLUT.framework/Headers/vvector.h	702;"	d
+ACCUM_SCALE_MATRIX_3X3	/System/Library/Frameworks/GLUT.framework/Headers/vvector.h	714;"	d
+ACCUM_SCALE_MATRIX_4X4	/System/Library/Frameworks/GLUT.framework/Headers/vvector.h	732;"	d
+ADJOINT_2X2	/System/Library/Frameworks/GLUT.framework/Headers/vvector.h	1188;"	d
+ADJOINT_3X3	/System/Library/Frameworks/GLUT.framework/Headers/vvector.h	1204;"	d
+ADJOINT_4X4	/System/Library/Frameworks/GLUT.framework/Headers/vvector.h	1224;"	d
+APIENTRY	/System/Library/Frameworks/GLUT.framework/Headers/glsmap.h	21;"	d
+APIENTRY	/System/Library/Frameworks/GLUT.framework/Headers/glsmap.h	23;"	d
+APIENTRY	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	23;"	d
+APIENTRY	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	25;"	d
+APIENTRY	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	636;"	d
+APIENTRY	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	69;"	d
+APIENTRY	/System/Library/Frameworks/GLUT.framework/Headers/glutf90.h	24;"	d
+AVAL	/System/Library/Frameworks/GLUT.framework/Headers/port.h	35;"	d
+AVAL	/System/Library/Frameworks/GLUT.framework/Headers/port.h	41;"	d
+BACK	/System/Library/Frameworks/GLUT.framework/Headers/glsmapint.h	31;"	d
+BACK	/System/Library/Frameworks/GLUT.framework/Headers/port.h	51;"	d
+BACKWARDS_INTERSECT	/System/Library/Frameworks/GLUT.framework/Headers/intersect.h	15;"	d
+BACK_CAP	/System/Library/Frameworks/GLUT.framework/Headers/port.h	53;"	d
+BACKst	/System/Library/Frameworks/GLUT.framework/Headers/glsmapint.h	37;"	d
+BACKxy	/System/Library/Frameworks/GLUT.framework/Headers/glsmapint.h	34;"	d
+BGNPOLYGON	/System/Library/Frameworks/GLUT.framework/Headers/port.h	142;"	d
+BGNPOLYGON	/System/Library/Frameworks/GLUT.framework/Headers/port.h	241;"	d
+BGNPOLYGON	/System/Library/Frameworks/GLUT.framework/Headers/port.h	280;"	d
+BGNPOLYGON	/System/Library/Frameworks/GLUT.framework/Headers/port.h	94;"	d
+BGNTMESH	/System/Library/Frameworks/GLUT.framework/Headers/port.h	140;"	d
+BGNTMESH	/System/Library/Frameworks/GLUT.framework/Headers/port.h	236;"	d
+BGNTMESH	/System/Library/Frameworks/GLUT.framework/Headers/port.h	279;"	d
+BGNTMESH	/System/Library/Frameworks/GLUT.framework/Headers/port.h	92;"	d
+BISECTING_PLANE	/System/Library/Frameworks/GLUT.framework/Headers/intersect.h	139;"	d
+BISECTING_PLANE	/System/Library/Frameworks/GLUT.framework/Headers/intersect.h	216;"	d
+BitmapCharPtr	/System/Library/Frameworks/GLUT.framework/Headers/glutbitmap.h	/^} BitmapCharRec, *BitmapCharPtr;$/;"	t	typeref:struct:__anon4
+BitmapCharRec	/System/Library/Frameworks/GLUT.framework/Headers/glutbitmap.h	/^} BitmapCharRec, *BitmapCharPtr;$/;"	t	typeref:struct:__anon4
+BitmapFontPtr	/System/Library/Frameworks/GLUT.framework/Headers/glutbitmap.h	/^} BitmapFontRec, *BitmapFontPtr;$/;"	t	typeref:struct:__anon5
+BitmapFontRec	/System/Library/Frameworks/GLUT.framework/Headers/glutbitmap.h	/^} BitmapFontRec, *BitmapFontPtr;$/;"	t	typeref:struct:__anon5
+C3F	/System/Library/Frameworks/GLUT.framework/Headers/port.h	100;"	d
+C3F	/System/Library/Frameworks/GLUT.framework/Headers/port.h	149;"	d
+C3F	/System/Library/Frameworks/GLUT.framework/Headers/port.h	218;"	d
+CALLBACK	/System/Library/Frameworks/GLUT.framework/Headers/glsmap.h	29;"	d
+CALLBACK	/System/Library/Frameworks/GLUT.framework/Headers/glsmap.h	31;"	d
+CALLBACK	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	31;"	d
+CALLBACK	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	33;"	d
+CALLBACK	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	71;"	d
+COFACTOR_2X2	/System/Library/Frameworks/GLUT.framework/Headers/vvector.h	1137;"	d
+COFACTOR_3X3	/System/Library/Frameworks/GLUT.framework/Headers/vvector.h	1151;"	d
+COFACTOR_4X4	/System/Library/Frameworks/GLUT.framework/Headers/vvector.h	1170;"	d
+COFACTOR_4X4_IJ	/System/Library/Frameworks/GLUT.framework/Headers/vvector.h	1088;"	d
+COPY_FOUR_WORDS	/System/Library/Frameworks/GLUT.framework/Headers/copy.h	13;"	d
+COPY_MATRIX_2X2	/System/Library/Frameworks/GLUT.framework/Headers/vvector.h	519;"	d
+COPY_MATRIX_2X3	/System/Library/Frameworks/GLUT.framework/Headers/vvector.h	532;"	d
+COPY_MATRIX_3X3	/System/Library/Frameworks/GLUT.framework/Headers/vvector.h	546;"	d
+COPY_MATRIX_4X4	/System/Library/Frameworks/GLUT.framework/Headers/vvector.h	564;"	d
+COPY_THREE_WORDS	/System/Library/Frameworks/GLUT.framework/Headers/copy.h	8;"	d
+CUTTING_PLANE	/System/Library/Frameworks/GLUT.framework/Headers/intersect.h	286;"	d
+CUTTING_PLANE	/System/Library/Frameworks/GLUT.framework/Headers/intersect.h	349;"	d
+CoordPtr	/System/Library/Frameworks/GLUT.framework/Headers/glutstroke.h	/^} CoordRec, *CoordPtr;$/;"	t	typeref:struct:__anon6
+CoordRec	/System/Library/Frameworks/GLUT.framework/Headers/glutstroke.h	/^} CoordRec, *CoordPtr;$/;"	t	typeref:struct:__anon6
+DEGENERATE_TOLERANCE	/System/Library/Frameworks/GLUT.framework/Headers/intersect.h	51;"	d
+DETERMINANT_2X2	/System/Library/Frameworks/GLUT.framework/Headers/vvector.h	1065;"	d
+DETERMINANT_3X3	/System/Library/Frameworks/GLUT.framework/Headers/vvector.h	1076;"	d
+DETERMINANT_4X4	/System/Library/Frameworks/GLUT.framework/Headers/vvector.h	1118;"	d
+ENDPOLYGON	/System/Library/Frameworks/GLUT.framework/Headers/port.h	143;"	d
+ENDPOLYGON	/System/Library/Frameworks/GLUT.framework/Headers/port.h	271;"	d
+ENDPOLYGON	/System/Library/Frameworks/GLUT.framework/Headers/port.h	288;"	d
+ENDPOLYGON	/System/Library/Frameworks/GLUT.framework/Headers/port.h	95;"	d
+ENDTMESH	/System/Library/Frameworks/GLUT.framework/Headers/port.h	141;"	d
+ENDTMESH	/System/Library/Frameworks/GLUT.framework/Headers/port.h	266;"	d
+ENDTMESH	/System/Library/Frameworks/GLUT.framework/Headers/port.h	287;"	d
+ENDTMESH	/System/Library/Frameworks/GLUT.framework/Headers/port.h	93;"	d
+FACE	/System/Library/Frameworks/GLUT.framework/Headers/glsmapint.h	18;"	d
+FACEst	/System/Library/Frameworks/GLUT.framework/Headers/glsmapint.h	24;"	d
+FACExy	/System/Library/Frameworks/GLUT.framework/Headers/glsmapint.h	21;"	d
+FALSE	/System/Library/Frameworks/GLUT.framework/Headers/port.h	23;"	d
+FILLET	/System/Library/Frameworks/GLUT.framework/Headers/port.h	54;"	d
+FIND_NON_DEGENERATE_POINT	/System/Library/Frameworks/GLUT.framework/Headers/intersect.h	369;"	d
+FRONT	/System/Library/Frameworks/GLUT.framework/Headers/port.h	50;"	d
+FRONT_CAP	/System/Library/Frameworks/GLUT.framework/Headers/port.h	52;"	d
+GLE_API_VERSION	/System/Library/Frameworks/GLUT.framework/Headers/tube.h	29;"	d
+GLE_TEXTURE_ENABLE	/System/Library/Frameworks/GLUT.framework/Headers/tube.h	57;"	d
+GLE_TEXTURE_NORMAL_CYL	/System/Library/Frameworks/GLUT.framework/Headers/tube.h	62;"	d
+GLE_TEXTURE_NORMAL_FLAT	/System/Library/Frameworks/GLUT.framework/Headers/tube.h	60;"	d
+GLE_TEXTURE_NORMAL_MODEL_CYL	/System/Library/Frameworks/GLUT.framework/Headers/tube.h	68;"	d
+GLE_TEXTURE_NORMAL_MODEL_FLAT	/System/Library/Frameworks/GLUT.framework/Headers/tube.h	66;"	d
+GLE_TEXTURE_NORMAL_MODEL_SPH	/System/Library/Frameworks/GLUT.framework/Headers/tube.h	70;"	d
+GLE_TEXTURE_NORMAL_SPH	/System/Library/Frameworks/GLUT.framework/Headers/tube.h	64;"	d
+GLE_TEXTURE_STYLE_MASK	/System/Library/Frameworks/GLUT.framework/Headers/tube.h	58;"	d
+GLE_TEXTURE_VERTEX_CYL	/System/Library/Frameworks/GLUT.framework/Headers/tube.h	61;"	d
+GLE_TEXTURE_VERTEX_FLAT	/System/Library/Frameworks/GLUT.framework/Headers/tube.h	59;"	d
+GLE_TEXTURE_VERTEX_MODEL_CYL	/System/Library/Frameworks/GLUT.framework/Headers/tube.h	67;"	d
+GLE_TEXTURE_VERTEX_MODEL_FLAT	/System/Library/Frameworks/GLUT.framework/Headers/tube.h	65;"	d
+GLE_TEXTURE_VERTEX_MODEL_SPH	/System/Library/Frameworks/GLUT.framework/Headers/tube.h	69;"	d
+GLE_TEXTURE_VERTEX_SPH	/System/Library/Frameworks/GLUT.framework/Headers/tube.h	63;"	d
+GLUTCALLBACK	/System/Library/Frameworks/GLUT.framework/Headers/glutf90.h	21;"	d
+GLUT_ACCUM	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	167;"	d
+GLUT_ACTIVE_ALT	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	386;"	d
+GLUT_ACTIVE_CTRL	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	385;"	d
+GLUT_ACTIVE_SHIFT	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	384;"	d
+GLUT_ALPHA	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	168;"	d
+GLUT_APIENTRY_DEFINED	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	21;"	d
+GLUT_APIENTRY_DEFINED	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	635;"	d
+GLUT_APIENTRY_DEFINED	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	70;"	d
+GLUT_API_VERSION	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	102;"	d
+GLUT_BITMAP_8_BY_13	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	249;"	d
+GLUT_BITMAP_8_BY_13	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	277;"	d
+GLUT_BITMAP_9_BY_15	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	248;"	d
+GLUT_BITMAP_9_BY_15	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	276;"	d
+GLUT_BITMAP_HELVETICA_10	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	253;"	d
+GLUT_BITMAP_HELVETICA_10	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	281;"	d
+GLUT_BITMAP_HELVETICA_12	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	254;"	d
+GLUT_BITMAP_HELVETICA_12	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	282;"	d
+GLUT_BITMAP_HELVETICA_18	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	255;"	d
+GLUT_BITMAP_HELVETICA_18	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	283;"	d
+GLUT_BITMAP_TIMES_ROMAN_10	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	250;"	d
+GLUT_BITMAP_TIMES_ROMAN_10	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	278;"	d
+GLUT_BITMAP_TIMES_ROMAN_24	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	251;"	d
+GLUT_BITMAP_TIMES_ROMAN_24	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	279;"	d
+GLUT_BLUE	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	236;"	d
+GLUT_CURSOR_BOTTOM_LEFT_CORNER	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	412;"	d
+GLUT_CURSOR_BOTTOM_RIGHT_CORNER	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	411;"	d
+GLUT_CURSOR_BOTTOM_SIDE	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	406;"	d
+GLUT_CURSOR_CROSSHAIR	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	400;"	d
+GLUT_CURSOR_CYCLE	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	396;"	d
+GLUT_CURSOR_DESTROY	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	394;"	d
+GLUT_CURSOR_FULL_CROSSHAIR	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	418;"	d
+GLUT_CURSOR_HELP	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	395;"	d
+GLUT_CURSOR_INFO	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	393;"	d
+GLUT_CURSOR_INHERIT	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	414;"	d
+GLUT_CURSOR_LEFT_ARROW	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	391;"	d
+GLUT_CURSOR_LEFT_RIGHT	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	403;"	d
+GLUT_CURSOR_LEFT_SIDE	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	407;"	d
+GLUT_CURSOR_NONE	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	416;"	d
+GLUT_CURSOR_RIGHT_ARROW	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	390;"	d
+GLUT_CURSOR_RIGHT_SIDE	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	408;"	d
+GLUT_CURSOR_SPRAY	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	397;"	d
+GLUT_CURSOR_TEXT	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	399;"	d
+GLUT_CURSOR_TOP_LEFT_CORNER	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	409;"	d
+GLUT_CURSOR_TOP_RIGHT_CORNER	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	410;"	d
+GLUT_CURSOR_TOP_SIDE	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	405;"	d
+GLUT_CURSOR_UP_DOWN	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	402;"	d
+GLUT_CURSOR_WAIT	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	398;"	d
+GLUT_DEPTH	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	169;"	d
+GLUT_DEVICE_IGNORE_KEY_REPEAT	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	347;"	d
+GLUT_DEVICE_KEY_REPEAT	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	348;"	d
+GLUT_DISPLAY_MODE_POSSIBLE	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	320;"	d
+GLUT_DOUBLE	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	166;"	d
+GLUT_DOWN	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	186;"	d
+GLUT_ELAPSED_TIME	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	327;"	d
+GLUT_ENTERED	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	217;"	d
+GLUT_FCB_BUTTON_BOX	/System/Library/Frameworks/GLUT.framework/Headers/glutf90.h	44;"	d
+GLUT_FCB_DIALS	/System/Library/Frameworks/GLUT.framework/Headers/glutf90.h	45;"	d
+GLUT_FCB_DISPLAY	/System/Library/Frameworks/GLUT.framework/Headers/glutf90.h	32;"	d
+GLUT_FCB_ENTRY	/System/Library/Frameworks/GLUT.framework/Headers/glutf90.h	37;"	d
+GLUT_FCB_JOYSTICK	/System/Library/Frameworks/GLUT.framework/Headers/glutf90.h	51;"	d
+GLUT_FCB_KEYBOARD	/System/Library/Frameworks/GLUT.framework/Headers/glutf90.h	38;"	d
+GLUT_FCB_KEYBOARD_UP	/System/Library/Frameworks/GLUT.framework/Headers/glutf90.h	39;"	d
+GLUT_FCB_MOTION	/System/Library/Frameworks/GLUT.framework/Headers/glutf90.h	35;"	d
+GLUT_FCB_MOUSE	/System/Library/Frameworks/GLUT.framework/Headers/glutf90.h	34;"	d
+GLUT_FCB_OVERLAY_DISPLAY	/System/Library/Frameworks/GLUT.framework/Headers/glutf90.h	54;"	d
+GLUT_FCB_PASSIVE	/System/Library/Frameworks/GLUT.framework/Headers/glutf90.h	36;"	d
+GLUT_FCB_RESHAPE	/System/Library/Frameworks/GLUT.framework/Headers/glutf90.h	33;"	d
+GLUT_FCB_SELECT	/System/Library/Frameworks/GLUT.framework/Headers/glutf90.h	55;"	d
+GLUT_FCB_SPACE_BUTTON	/System/Library/Frameworks/GLUT.framework/Headers/glutf90.h	48;"	d
+GLUT_FCB_SPACE_MOTION	/System/Library/Frameworks/GLUT.framework/Headers/glutf90.h	46;"	d
+GLUT_FCB_SPACE_ROTATE	/System/Library/Frameworks/GLUT.framework/Headers/glutf90.h	47;"	d
+GLUT_FCB_SPECIAL	/System/Library/Frameworks/GLUT.framework/Headers/glutf90.h	42;"	d
+GLUT_FCB_SPECIAL_UP	/System/Library/Frameworks/GLUT.framework/Headers/glutf90.h	43;"	d
+GLUT_FCB_TABLET_BUTTON	/System/Library/Frameworks/GLUT.framework/Headers/glutf90.h	50;"	d
+GLUT_FCB_TABLET_MOTION	/System/Library/Frameworks/GLUT.framework/Headers/glutf90.h	49;"	d
+GLUT_FCB_TIMER	/System/Library/Frameworks/GLUT.framework/Headers/glutf90.h	56;"	d
+GLUT_FCB_VISIBILITY	/System/Library/Frameworks/GLUT.framework/Headers/glutf90.h	41;"	d
+GLUT_FCB_WINDOW_STATUS	/System/Library/Frameworks/GLUT.framework/Headers/glutf90.h	40;"	d
+GLUT_FCB_WMCLOSE	/System/Library/Frameworks/GLUT.framework/Headers/glutf90.h	52;"	d
+GLUT_FULLY_COVERED	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	231;"	d
+GLUT_FULLY_RETAINED	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	229;"	d
+GLUT_GAME_MODE_ACTIVE	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	615;"	d
+GLUT_GAME_MODE_DISPLAY_CHANGED	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	621;"	d
+GLUT_GAME_MODE_HEIGHT	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	618;"	d
+GLUT_GAME_MODE_PIXEL_DEPTH	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	619;"	d
+GLUT_GAME_MODE_POSSIBLE	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	616;"	d
+GLUT_GAME_MODE_REFRESH_RATE	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	620;"	d
+GLUT_GAME_MODE_WIDTH	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	617;"	d
+GLUT_GREEN	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	235;"	d
+GLUT_HAS_DIAL_AND_BUTTON_BOX	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	338;"	d
+GLUT_HAS_JOYSTICK	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	349;"	d
+GLUT_HAS_KEYBOARD	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	335;"	d
+GLUT_HAS_MOUSE	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	336;"	d
+GLUT_HAS_OVERLAY	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	360;"	d
+GLUT_HAS_SPACEBALL	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	337;"	d
+GLUT_HAS_TABLET	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	339;"	d
+GLUT_HIDDEN	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	228;"	d
+GLUT_INDEX	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	164;"	d
+GLUT_INIT_DISPLAY_MODE	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	325;"	d
+GLUT_INIT_WINDOW_HEIGHT	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	324;"	d
+GLUT_INIT_WINDOW_WIDTH	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	323;"	d
+GLUT_INIT_WINDOW_X	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	321;"	d
+GLUT_INIT_WINDOW_Y	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	322;"	d
+GLUT_JOYSTICK_AXES	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	352;"	d
+GLUT_JOYSTICK_BUTTONS	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	351;"	d
+GLUT_JOYSTICK_BUTTON_A	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	604;"	d
+GLUT_JOYSTICK_BUTTON_B	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	605;"	d
+GLUT_JOYSTICK_BUTTON_C	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	606;"	d
+GLUT_JOYSTICK_BUTTON_D	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	607;"	d
+GLUT_JOYSTICK_POLL_RATE	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	353;"	d
+GLUT_KEY_DOWN	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	207;"	d
+GLUT_KEY_END	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	211;"	d
+GLUT_KEY_F1	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	191;"	d
+GLUT_KEY_F10	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	200;"	d
+GLUT_KEY_F11	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	201;"	d
+GLUT_KEY_F12	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	202;"	d
+GLUT_KEY_F2	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	192;"	d
+GLUT_KEY_F3	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	193;"	d
+GLUT_KEY_F4	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	194;"	d
+GLUT_KEY_F5	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	195;"	d
+GLUT_KEY_F6	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	196;"	d
+GLUT_KEY_F7	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	197;"	d
+GLUT_KEY_F8	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	198;"	d
+GLUT_KEY_F9	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	199;"	d
+GLUT_KEY_HOME	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	210;"	d
+GLUT_KEY_INSERT	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	212;"	d
+GLUT_KEY_LEFT	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	204;"	d
+GLUT_KEY_PAGE_DOWN	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	209;"	d
+GLUT_KEY_PAGE_UP	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	208;"	d
+GLUT_KEY_REPEAT_DEFAULT	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	601;"	d
+GLUT_KEY_REPEAT_OFF	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	599;"	d
+GLUT_KEY_REPEAT_ON	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	600;"	d
+GLUT_KEY_RIGHT	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	206;"	d
+GLUT_KEY_UP	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	205;"	d
+GLUT_LAYER_IN_USE	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	359;"	d
+GLUT_LEFT	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	216;"	d
+GLUT_LEFT_BUTTON	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	181;"	d
+GLUT_LUMINANCE	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	176;"	d
+GLUT_MACOSX_IMPLEMENTATION	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	158;"	d
+GLUT_MENU_IN_USE	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	221;"	d
+GLUT_MENU_NOT_IN_USE	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	220;"	d
+GLUT_MENU_NUM_ITEMS	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	319;"	d
+GLUT_MIDDLE_BUTTON	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	182;"	d
+GLUT_MULTISAMPLE	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	172;"	d
+GLUT_NORMAL	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	239;"	d
+GLUT_NORMAL	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	380;"	d
+GLUT_NORMAL_DAMAGED	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	362;"	d
+GLUT_NOT_VISIBLE	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	224;"	d
+GLUT_NO_RECOVERY	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	178;"	d
+GLUT_NUM_BUTTON_BOX_BUTTONS	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	342;"	d
+GLUT_NUM_DIALS	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	343;"	d
+GLUT_NUM_MOUSE_BUTTONS	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	340;"	d
+GLUT_NUM_SPACEBALL_BUTTONS	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	341;"	d
+GLUT_NUM_TABLET_BUTTONS	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	344;"	d
+GLUT_OVERLAY	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	240;"	d
+GLUT_OVERLAY	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	381;"	d
+GLUT_OVERLAY_DAMAGED	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	363;"	d
+GLUT_OVERLAY_POSSIBLE	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	358;"	d
+GLUT_OWNS_JOYSTICK	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	350;"	d
+GLUT_PARTIALLY_RETAINED	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	230;"	d
+GLUT_RED	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	234;"	d
+GLUT_RGB	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	162;"	d
+GLUT_RGBA	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	163;"	d
+GLUT_RIGHT_BUTTON	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	183;"	d
+GLUT_SCREEN_HEIGHT	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	316;"	d
+GLUT_SCREEN_HEIGHT_MM	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	318;"	d
+GLUT_SCREEN_WIDTH	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	315;"	d
+GLUT_SCREEN_WIDTH_MM	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	317;"	d
+GLUT_SINGLE	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	165;"	d
+GLUT_STENCIL	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	170;"	d
+GLUT_STEREO	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	173;"	d
+GLUT_STROKE_MONO_ROMAN	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	245;"	d
+GLUT_STROKE_MONO_ROMAN	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	264;"	d
+GLUT_STROKE_ROMAN	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	244;"	d
+GLUT_STROKE_ROMAN	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	263;"	d
+GLUT_TRANSPARENT_INDEX	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	361;"	d
+GLUT_UP	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	187;"	d
+GLUT_VIDEO_RESIZE_HEIGHT	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	376;"	d
+GLUT_VIDEO_RESIZE_HEIGHT_DELTA	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	372;"	d
+GLUT_VIDEO_RESIZE_IN_USE	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	368;"	d
+GLUT_VIDEO_RESIZE_POSSIBLE	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	367;"	d
+GLUT_VIDEO_RESIZE_WIDTH	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	375;"	d
+GLUT_VIDEO_RESIZE_WIDTH_DELTA	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	371;"	d
+GLUT_VIDEO_RESIZE_X	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	373;"	d
+GLUT_VIDEO_RESIZE_X_DELTA	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	369;"	d
+GLUT_VIDEO_RESIZE_Y	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	374;"	d
+GLUT_VIDEO_RESIZE_Y_DELTA	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	370;"	d
+GLUT_VISIBLE	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	225;"	d
+GLUT_WINDOW_ACCUM_ALPHA_SIZE	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	302;"	d
+GLUT_WINDOW_ACCUM_BLUE_SIZE	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	301;"	d
+GLUT_WINDOW_ACCUM_GREEN_SIZE	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	300;"	d
+GLUT_WINDOW_ACCUM_RED_SIZE	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	299;"	d
+GLUT_WINDOW_ALPHA_SIZE	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	298;"	d
+GLUT_WINDOW_BLUE_SIZE	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	297;"	d
+GLUT_WINDOW_BUFFER_SIZE	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	292;"	d
+GLUT_WINDOW_COLORMAP_SIZE	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	307;"	d
+GLUT_WINDOW_CURSOR	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	313;"	d
+GLUT_WINDOW_DEPTH_SIZE	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	294;"	d
+GLUT_WINDOW_DOUBLEBUFFER	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	303;"	d
+GLUT_WINDOW_FORMAT_ID	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	330;"	d
+GLUT_WINDOW_GREEN_SIZE	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	296;"	d
+GLUT_WINDOW_HEIGHT	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	291;"	d
+GLUT_WINDOW_NUM_CHILDREN	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	306;"	d
+GLUT_WINDOW_NUM_SAMPLES	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	309;"	d
+GLUT_WINDOW_PARENT	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	305;"	d
+GLUT_WINDOW_RED_SIZE	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	295;"	d
+GLUT_WINDOW_RGBA	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	304;"	d
+GLUT_WINDOW_STENCIL_SIZE	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	293;"	d
+GLUT_WINDOW_STEREO	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	310;"	d
+GLUT_WINDOW_WIDTH	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	290;"	d
+GLUT_WINDOW_X	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	288;"	d
+GLUT_WINDOW_Y	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	289;"	d
+GLUT_WINGDIAPI_DEFINED	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	38;"	d
+GLUT_WINGDIAPI_DEFINED	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	640;"	d
+GLUT_XLIB_IMPLEMENTATION	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	142;"	d
+GLUTbitmapFont	/System/Library/Frameworks/GLUT.framework/Headers/glutbitmap.h	/^typedef void *GLUTbitmapFont;$/;"	t
+GLUTbuttonBoxFCB	/System/Library/Frameworks/GLUT.framework/Headers/glutf90.h	/^typedef void (GLUTCALLBACK *GLUTbuttonBoxFCB) (int *, int *);$/;"	t
+GLUTdialsFCB	/System/Library/Frameworks/GLUT.framework/Headers/glutf90.h	/^typedef void (GLUTCALLBACK *GLUTdialsFCB) (int *, int *);$/;"	t
+GLUTdisplayFCB	/System/Library/Frameworks/GLUT.framework/Headers/glutf90.h	/^typedef void (GLUTCALLBACK *GLUTdisplayFCB) (void);$/;"	t
+GLUTentryFCB	/System/Library/Frameworks/GLUT.framework/Headers/glutf90.h	/^typedef void (GLUTCALLBACK *GLUTentryFCB) (int *);$/;"	t
+GLUTidleFCB	/System/Library/Frameworks/GLUT.framework/Headers/glutf90.h	/^typedef void (GLUTCALLBACK *GLUTidleFCB) (void);$/;"	t
+GLUTjoystickFCB	/System/Library/Frameworks/GLUT.framework/Headers/glutf90.h	/^typedef void (GLUTCALLBACK *GLUTjoystickFCB) (unsigned int *buttonMask, int *x, int *y, int *z);$/;"	t
+GLUTkeyboardFCB	/System/Library/Frameworks/GLUT.framework/Headers/glutf90.h	/^typedef void (GLUTCALLBACK *GLUTkeyboardFCB) (int *, int *, int *);$/;"	t
+GLUTmenuStateFCB	/System/Library/Frameworks/GLUT.framework/Headers/glutf90.h	/^typedef void (GLUTCALLBACK *GLUTmenuStateFCB) (int *);  \/* DEPRICATED. *\/$/;"	t
+GLUTmenuStatusFCB	/System/Library/Frameworks/GLUT.framework/Headers/glutf90.h	/^typedef void (GLUTCALLBACK *GLUTmenuStatusFCB) (int *, int *, int *);$/;"	t
+GLUTmotionFCB	/System/Library/Frameworks/GLUT.framework/Headers/glutf90.h	/^typedef void (GLUTCALLBACK *GLUTmotionFCB) (int *, int *);$/;"	t
+GLUTmouseFCB	/System/Library/Frameworks/GLUT.framework/Headers/glutf90.h	/^typedef void (GLUTCALLBACK *GLUTmouseFCB) (int *, int *, int *, int *);$/;"	t
+GLUTpassiveFCB	/System/Library/Frameworks/GLUT.framework/Headers/glutf90.h	/^typedef void (GLUTCALLBACK *GLUTpassiveFCB) (int *, int *);$/;"	t
+GLUTreshapeFCB	/System/Library/Frameworks/GLUT.framework/Headers/glutf90.h	/^typedef void (GLUTCALLBACK *GLUTreshapeFCB) (int *, int *);$/;"	t
+GLUTselectFCB	/System/Library/Frameworks/GLUT.framework/Headers/glutf90.h	/^typedef void (GLUTCALLBACK *GLUTselectFCB) (int *);$/;"	t
+GLUTspaceButtonFCB	/System/Library/Frameworks/GLUT.framework/Headers/glutf90.h	/^typedef void (GLUTCALLBACK *GLUTspaceButtonFCB) (int *, int *);$/;"	t
+GLUTspaceMotionFCB	/System/Library/Frameworks/GLUT.framework/Headers/glutf90.h	/^typedef void (GLUTCALLBACK *GLUTspaceMotionFCB) (int *, int *, int *);$/;"	t
+GLUTspaceRotateFCB	/System/Library/Frameworks/GLUT.framework/Headers/glutf90.h	/^typedef void (GLUTCALLBACK *GLUTspaceRotateFCB) (int *, int *, int *);$/;"	t
+GLUTspecialFCB	/System/Library/Frameworks/GLUT.framework/Headers/glutf90.h	/^typedef void (GLUTCALLBACK *GLUTspecialFCB) (int *, int *, int *);$/;"	t
+GLUTstrokeFont	/System/Library/Frameworks/GLUT.framework/Headers/glutstroke.h	/^typedef void *GLUTstrokeFont;$/;"	t
+GLUTtabletButtonFCB	/System/Library/Frameworks/GLUT.framework/Headers/glutf90.h	/^typedef void (GLUTCALLBACK *GLUTtabletButtonFCB) (int *, int *, int *, int *);$/;"	t
+GLUTtabletMotionFCB	/System/Library/Frameworks/GLUT.framework/Headers/glutf90.h	/^typedef void (GLUTCALLBACK *GLUTtabletMotionFCB) (int *, int *);$/;"	t
+GLUTtimerFCB	/System/Library/Frameworks/GLUT.framework/Headers/glutf90.h	/^typedef void (GLUTCALLBACK *GLUTtimerFCB) (int *);$/;"	t
+GLUTvisibilityFCB	/System/Library/Frameworks/GLUT.framework/Headers/glutf90.h	/^typedef void (GLUTCALLBACK *GLUTvisibilityFCB) (int *);$/;"	t
+GLUTwindowStatusFCB	/System/Library/Frameworks/GLUT.framework/Headers/glutf90.h	/^typedef void (GLUTCALLBACK *GLUTwindowStatusFCB) (int *);$/;"	t
+GLUTwmcloseFCB	/System/Library/Frameworks/GLUT.framework/Headers/glutf90.h	/^typedef void (GLUTCALLBACK *GLUTwmcloseFCB) (void);$/;"	t
+GL_32	/System/Library/Frameworks/GLUT.framework/Headers/port.h	89;"	d
+IDENTIFY_MATRIX_3X3	/System/Library/Frameworks/GLUT.framework/Headers/vvector.h	475;"	d
+IDENTIFY_MATRIX_4X4	/System/Library/Frameworks/GLUT.framework/Headers/vvector.h	493;"	d
+INITBACK	/System/Library/Frameworks/GLUT.framework/Headers/glsmapint.h	27;"	d
+INITFACE	/System/Library/Frameworks/GLUT.framework/Headers/glsmapint.h	14;"	d
+INIT_GC	/System/Library/Frameworks/GLUT.framework/Headers/tube_gc.h	64;"	d
+INLINE_INTERSECT	/System/Library/Frameworks/GLUT.framework/Headers/extrude.h	25;"	d
+INNERSECT	/System/Library/Frameworks/GLUT.framework/Headers/extrude.h	27;"	d
+INNERSECT	/System/Library/Frameworks/GLUT.framework/Headers/extrude.h	29;"	d
+INTERSECT	/System/Library/Frameworks/GLUT.framework/Headers/intersect.h	86;"	d
+INVERT_2X2	/System/Library/Frameworks/GLUT.framework/Headers/vvector.h	1295;"	d
+INVERT_3X3	/System/Library/Frameworks/GLUT.framework/Headers/vvector.h	1310;"	d
+INVERT_4X4	/System/Library/Frameworks/GLUT.framework/Headers/vvector.h	1325;"	d
+INV_TRANSP_MAT_DOT_VEC_2X2	/System/Library/Frameworks/GLUT.framework/Headers/vvector.h	878;"	d
+LOADMATRIX	/System/Library/Frameworks/GLUT.framework/Headers/port.h	70;"	d
+LOADMATRIX	/System/Library/Frameworks/GLUT.framework/Headers/port.h	80;"	d
+LOADMATRIX_D	/System/Library/Frameworks/GLUT.framework/Headers/port.h	108;"	d
+LOADMATRIX_D	/System/Library/Frameworks/GLUT.framework/Headers/port.h	164;"	d
+LOADMATRIX_D	/System/Library/Frameworks/GLUT.framework/Headers/port.h	229;"	d
+LOADMATRIX_F	/System/Library/Frameworks/GLUT.framework/Headers/port.h	105;"	d
+LOADMATRIX_F	/System/Library/Frameworks/GLUT.framework/Headers/port.h	154;"	d
+LOADMATRIX_F	/System/Library/Frameworks/GLUT.framework/Headers/port.h	226;"	d
+MATRIX_PRODUCT_2X2	/System/Library/Frameworks/GLUT.framework/Headers/vvector.h	759;"	d
+MATRIX_PRODUCT_3X3	/System/Library/Frameworks/GLUT.framework/Headers/vvector.h	773;"	d
+MATRIX_PRODUCT_4X4	/System/Library/Frameworks/GLUT.framework/Headers/vvector.h	792;"	d
+MAT_DOT_VEC_2X2	/System/Library/Frameworks/GLUT.framework/Headers/vvector.h	818;"	d
+MAT_DOT_VEC_2X3	/System/Library/Frameworks/GLUT.framework/Headers/vvector.h	861;"	d
+MAT_DOT_VEC_3X3	/System/Library/Frameworks/GLUT.framework/Headers/vvector.h	827;"	d
+MAT_DOT_VEC_4X4	/System/Library/Frameworks/GLUT.framework/Headers/vvector.h	837;"	d
+MAT_PRINT_2X3	/System/Library/Frameworks/GLUT.framework/Headers/vvector.h	457;"	d
+MAT_PRINT_3X3	/System/Library/Frameworks/GLUT.framework/Headers/vvector.h	439;"	d
+MAT_PRINT_4X4	/System/Library/Frameworks/GLUT.framework/Headers/vvector.h	421;"	d
+MULTMATRIX	/System/Library/Frameworks/GLUT.framework/Headers/port.h	69;"	d
+MULTMATRIX	/System/Library/Frameworks/GLUT.framework/Headers/port.h	79;"	d
+MULTMATRIX_D	/System/Library/Frameworks/GLUT.framework/Headers/port.h	119;"	d
+MULTMATRIX_D	/System/Library/Frameworks/GLUT.framework/Headers/port.h	175;"	d
+MULTMATRIX_D	/System/Library/Frameworks/GLUT.framework/Headers/port.h	228;"	d
+MULTMATRIX_F	/System/Library/Frameworks/GLUT.framework/Headers/port.h	104;"	d
+MULTMATRIX_F	/System/Library/Frameworks/GLUT.framework/Headers/port.h	153;"	d
+MULTMATRIX_F	/System/Library/Frameworks/GLUT.framework/Headers/port.h	225;"	d
+M_PI	/System/Library/Frameworks/GLUT.framework/Headers/extrude.h	15;"	d
+M_PI	/System/Library/Frameworks/GLUT.framework/Headers/port.h	27;"	d
+N3F	/System/Library/Frameworks/GLUT.framework/Headers/port.h	72;"	d
+N3F	/System/Library/Frameworks/GLUT.framework/Headers/port.h	82;"	d
+N3F_D	/System/Library/Frameworks/GLUT.framework/Headers/port.h	156;"	d
+N3F_D	/System/Library/Frameworks/GLUT.framework/Headers/port.h	251;"	d
+N3F_D	/System/Library/Frameworks/GLUT.framework/Headers/port.h	283;"	d
+N3F_D	/System/Library/Frameworks/GLUT.framework/Headers/port.h	99;"	d
+N3F_F	/System/Library/Frameworks/GLUT.framework/Headers/port.h	146;"	d
+N3F_F	/System/Library/Frameworks/GLUT.framework/Headers/port.h	246;"	d
+N3F_F	/System/Library/Frameworks/GLUT.framework/Headers/port.h	282;"	d
+N3F_F	/System/Library/Frameworks/GLUT.framework/Headers/port.h	98;"	d
+NORM_XFORM_2X2	/System/Library/Frameworks/GLUT.framework/Headers/vvector.h	904;"	d
+OPENGL_10	/System/Library/Frameworks/GLUT.framework/Headers/port.h	90;"	d
+OUTER_PRODUCT_2X2	/System/Library/Frameworks/GLUT.framework/Headers/vvector.h	930;"	d
+OUTER_PRODUCT_3X3	/System/Library/Frameworks/GLUT.framework/Headers/vvector.h	946;"	d
+OUTER_PRODUCT_4X4	/System/Library/Frameworks/GLUT.framework/Headers/vvector.h	968;"	d
+POPMATRIX	/System/Library/Frameworks/GLUT.framework/Headers/port.h	102;"	d
+POPMATRIX	/System/Library/Frameworks/GLUT.framework/Headers/port.h	151;"	d
+POPMATRIX	/System/Library/Frameworks/GLUT.framework/Headers/port.h	222;"	d
+PUSHMATRIX	/System/Library/Frameworks/GLUT.framework/Headers/port.h	103;"	d
+PUSHMATRIX	/System/Library/Frameworks/GLUT.framework/Headers/port.h	152;"	d
+PUSHMATRIX	/System/Library/Frameworks/GLUT.framework/Headers/port.h	223;"	d
+ROTX_CS	/System/Library/Frameworks/GLUT.framework/Headers/rot.h	19;"	d
+ROTY_CS	/System/Library/Frameworks/GLUT.framework/Headers/rot.h	46;"	d
+ROTZ_CS	/System/Library/Frameworks/GLUT.framework/Headers/rot.h	73;"	d
+SCALE_ADJOINT_2X2	/System/Library/Frameworks/GLUT.framework/Headers/vvector.h	1241;"	d
+SCALE_ADJOINT_3X3	/System/Library/Frameworks/GLUT.framework/Headers/vvector.h	1255;"	d
+SCALE_ADJOINT_4X4	/System/Library/Frameworks/GLUT.framework/Headers/vvector.h	1276;"	d
+SCALE_MATRIX_2X2	/System/Library/Frameworks/GLUT.framework/Headers/vvector.h	646;"	d
+SCALE_MATRIX_3X3	/System/Library/Frameworks/GLUT.framework/Headers/vvector.h	658;"	d
+SCALE_MATRIX_4X4	/System/Library/Frameworks/GLUT.framework/Headers/vvector.h	676;"	d
+SMAP_BACK	/System/Library/Frameworks/GLUT.framework/Headers/glsmap.h	/^	SMAP_BACK = 5$/;"	e	enum:__anon2
+SMAP_BOTTOM	/System/Library/Frameworks/GLUT.framework/Headers/glsmap.h	/^	SMAP_BOTTOM = 2,$/;"	e	enum:__anon2
+SMAP_CLEAR_SMAP_TEXTURE	/System/Library/Frameworks/GLUT.framework/Headers/glsmap.h	/^        SMAP_CLEAR_SMAP_TEXTURE = 0x1,$/;"	e	enum:__anon1
+SMAP_FRONT	/System/Library/Frameworks/GLUT.framework/Headers/glsmap.h	/^	SMAP_FRONT = 0,$/;"	e	enum:__anon2
+SMAP_GENERATE_MIPMAPS	/System/Library/Frameworks/GLUT.framework/Headers/glsmap.h	/^        SMAP_GENERATE_MIPMAPS = 0x6  \/* both of above *\/$/;"	e	enum:__anon1
+SMAP_GENERATE_SMAP_MIPMAPS	/System/Library/Frameworks/GLUT.framework/Headers/glsmap.h	/^        SMAP_GENERATE_SMAP_MIPMAPS = 0x4,$/;"	e	enum:__anon1
+SMAP_GENERATE_VIEW_MIPMAPS	/System/Library/Frameworks/GLUT.framework/Headers/glsmap.h	/^        SMAP_GENERATE_VIEW_MIPMAPS = 0x2,$/;"	e	enum:__anon1
+SMAP_LEFT	/System/Library/Frameworks/GLUT.framework/Headers/glsmap.h	/^	SMAP_LEFT = 3,$/;"	e	enum:__anon2
+SMAP_RIGHT	/System/Library/Frameworks/GLUT.framework/Headers/glsmap.h	/^	SMAP_RIGHT = 4,$/;"	e	enum:__anon2
+SMAP_TOP	/System/Library/Frameworks/GLUT.framework/Headers/glsmap.h	/^	SMAP_TOP = 1,$/;"	e	enum:__anon2
+STXY	/System/Library/Frameworks/GLUT.framework/Headers/glsmapint.h	/^} STXY;$/;"	t	typeref:struct:_STXY
+SphereMap	/System/Library/Frameworks/GLUT.framework/Headers/glsmap.h	/^typedef struct _SphereMap SphereMap;$/;"	t	typeref:struct:_SphereMap
+SphereMapFlags	/System/Library/Frameworks/GLUT.framework/Headers/glsmap.h	/^} SphereMapFlags;$/;"	t	typeref:enum:__anon1
+SphereMapMesh	/System/Library/Frameworks/GLUT.framework/Headers/glsmapint.h	/^} SphereMapMesh;$/;"	t	typeref:struct:_SphereMapMesh
+StrokeCharPtr	/System/Library/Frameworks/GLUT.framework/Headers/glutstroke.h	/^} StrokeCharRec, *StrokeCharPtr;$/;"	t	typeref:struct:__anon8
+StrokeCharRec	/System/Library/Frameworks/GLUT.framework/Headers/glutstroke.h	/^} StrokeCharRec, *StrokeCharPtr;$/;"	t	typeref:struct:__anon8
+StrokeFontPtr	/System/Library/Frameworks/GLUT.framework/Headers/glutstroke.h	/^} StrokeFontRec, *StrokeFontPtr;$/;"	t	typeref:struct:__anon9
+StrokeFontRec	/System/Library/Frameworks/GLUT.framework/Headers/glutstroke.h	/^} StrokeFontRec, *StrokeFontPtr;$/;"	t	typeref:struct:__anon9
+StrokePtr	/System/Library/Frameworks/GLUT.framework/Headers/glutstroke.h	/^} StrokeRec, *StrokePtr;$/;"	t	typeref:struct:__anon7
+StrokeRec	/System/Library/Frameworks/GLUT.framework/Headers/glutstroke.h	/^} StrokeRec, *StrokePtr;$/;"	t	typeref:struct:__anon7
+T2F	/System/Library/Frameworks/GLUT.framework/Headers/port.h	73;"	d
+T2F	/System/Library/Frameworks/GLUT.framework/Headers/port.h	83;"	d
+T2F_D	/System/Library/Frameworks/GLUT.framework/Headers/port.h	148;"	d
+T2F_D	/System/Library/Frameworks/GLUT.framework/Headers/port.h	220;"	d
+T2F_F	/System/Library/Frameworks/GLUT.framework/Headers/port.h	147;"	d
+T2F_F	/System/Library/Frameworks/GLUT.framework/Headers/port.h	219;"	d
+TRANSPOSE_MATRIX_2X2	/System/Library/Frameworks/GLUT.framework/Headers/vvector.h	590;"	d
+TRANSPOSE_MATRIX_3X3	/System/Library/Frameworks/GLUT.framework/Headers/vvector.h	602;"	d
+TRANSPOSE_MATRIX_4X4	/System/Library/Frameworks/GLUT.framework/Headers/vvector.h	620;"	d
+TRUE	/System/Library/Frameworks/GLUT.framework/Headers/port.h	19;"	d
+TUBE_CONTOUR_CLOSED	/System/Library/Frameworks/GLUT.framework/Headers/tube.h	55;"	d
+TUBE_JN_ANGLE	/System/Library/Frameworks/GLUT.framework/Headers/tube.h	42;"	d
+TUBE_JN_CAP	/System/Library/Frameworks/GLUT.framework/Headers/tube.h	46;"	d
+TUBE_JN_CUT	/System/Library/Frameworks/GLUT.framework/Headers/tube.h	43;"	d
+TUBE_JN_MASK	/System/Library/Frameworks/GLUT.framework/Headers/tube.h	45;"	d
+TUBE_JN_RAW	/System/Library/Frameworks/GLUT.framework/Headers/tube.h	41;"	d
+TUBE_JN_ROUND	/System/Library/Frameworks/GLUT.framework/Headers/tube.h	44;"	d
+TUBE_LIGHTING_ON	/System/Library/Frameworks/GLUT.framework/Headers/tube.h	74;"	d
+TUBE_NORM_EDGE	/System/Library/Frameworks/GLUT.framework/Headers/tube.h	50;"	d
+TUBE_NORM_FACET	/System/Library/Frameworks/GLUT.framework/Headers/tube.h	49;"	d
+TUBE_NORM_MASK	/System/Library/Frameworks/GLUT.framework/Headers/tube.h	52;"	d
+TUBE_NORM_PATH_EDGE	/System/Library/Frameworks/GLUT.framework/Headers/tube.h	51;"	d
+V3F	/System/Library/Frameworks/GLUT.framework/Headers/port.h	71;"	d
+V3F	/System/Library/Frameworks/GLUT.framework/Headers/port.h	81;"	d
+V3F_D	/System/Library/Frameworks/GLUT.framework/Headers/port.h	145;"	d
+V3F_D	/System/Library/Frameworks/GLUT.framework/Headers/port.h	261;"	d
+V3F_D	/System/Library/Frameworks/GLUT.framework/Headers/port.h	285;"	d
+V3F_D	/System/Library/Frameworks/GLUT.framework/Headers/port.h	97;"	d
+V3F_F	/System/Library/Frameworks/GLUT.framework/Headers/port.h	144;"	d
+V3F_F	/System/Library/Frameworks/GLUT.framework/Headers/port.h	256;"	d
+V3F_F	/System/Library/Frameworks/GLUT.framework/Headers/port.h	284;"	d
+V3F_F	/System/Library/Frameworks/GLUT.framework/Headers/port.h	96;"	d
+VEC_ACCUM	/System/Library/Frameworks/GLUT.framework/Headers/vvector.h	182;"	d
+VEC_ACCUM_2	/System/Library/Frameworks/GLUT.framework/Headers/vvector.h	173;"	d
+VEC_ACCUM_4	/System/Library/Frameworks/GLUT.framework/Headers/vvector.h	192;"	d
+VEC_BLEND	/System/Library/Frameworks/GLUT.framework/Headers/vvector.h	379;"	d
+VEC_CONJUGATE_LENGTH	/System/Library/Frameworks/GLUT.framework/Headers/vvector.h	287;"	d
+VEC_COPY	/System/Library/Frameworks/GLUT.framework/Headers/vvector.h	62;"	d
+VEC_COPY_2	/System/Library/Frameworks/GLUT.framework/Headers/vvector.h	53;"	d
+VEC_COPY_4	/System/Library/Frameworks/GLUT.framework/Headers/vvector.h	72;"	d
+VEC_CROSS_PRODUCT	/System/Library/Frameworks/GLUT.framework/Headers/vvector.h	326;"	d
+VEC_DIFF	/System/Library/Frameworks/GLUT.framework/Headers/vvector.h	92;"	d
+VEC_DIFF_2	/System/Library/Frameworks/GLUT.framework/Headers/vvector.h	83;"	d
+VEC_DIFF_4	/System/Library/Frameworks/GLUT.framework/Headers/vvector.h	102;"	d
+VEC_DISTANCE	/System/Library/Frameworks/GLUT.framework/Headers/vvector.h	277;"	d
+VEC_DOT_MAT_3X3	/System/Library/Frameworks/GLUT.framework/Headers/vvector.h	849;"	d
+VEC_DOT_PRODUCT	/System/Library/Frameworks/GLUT.framework/Headers/vvector.h	211;"	d
+VEC_DOT_PRODUCT_2	/System/Library/Frameworks/GLUT.framework/Headers/vvector.h	203;"	d
+VEC_DOT_PRODUCT_4	/System/Library/Frameworks/GLUT.framework/Headers/vvector.h	219;"	d
+VEC_IMPACT	/System/Library/Frameworks/GLUT.framework/Headers/vvector.h	238;"	d
+VEC_IMPACT_SQ	/System/Library/Frameworks/GLUT.framework/Headers/vvector.h	227;"	d
+VEC_LENGTH	/System/Library/Frameworks/GLUT.framework/Headers/vvector.h	256;"	d
+VEC_LENGTH_2	/System/Library/Frameworks/GLUT.framework/Headers/vvector.h	247;"	d
+VEC_LENGTH_4	/System/Library/Frameworks/GLUT.framework/Headers/vvector.h	266;"	d
+VEC_NORMALIZE	/System/Library/Frameworks/GLUT.framework/Headers/vvector.h	296;"	d
+VEC_PARALLEL	/System/Library/Frameworks/GLUT.framework/Headers/vvector.h	351;"	d
+VEC_PERP	/System/Library/Frameworks/GLUT.framework/Headers/vvector.h	337;"	d
+VEC_PRINT	/System/Library/Frameworks/GLUT.framework/Headers/vvector.h	400;"	d
+VEC_PRINT_2	/System/Library/Frameworks/GLUT.framework/Headers/vvector.h	390;"	d
+VEC_PRINT_4	/System/Library/Frameworks/GLUT.framework/Headers/vvector.h	410;"	d
+VEC_REFLECT	/System/Library/Frameworks/GLUT.framework/Headers/vvector.h	365;"	d
+VEC_RENORMALIZE	/System/Library/Frameworks/GLUT.framework/Headers/vvector.h	311;"	d
+VEC_SCALE	/System/Library/Frameworks/GLUT.framework/Headers/vvector.h	152;"	d
+VEC_SCALE_2	/System/Library/Frameworks/GLUT.framework/Headers/vvector.h	143;"	d
+VEC_SCALE_4	/System/Library/Frameworks/GLUT.framework/Headers/vvector.h	162;"	d
+VEC_SUM	/System/Library/Frameworks/GLUT.framework/Headers/vvector.h	122;"	d
+VEC_SUM_2	/System/Library/Frameworks/GLUT.framework/Headers/vvector.h	113;"	d
+VEC_SUM_4	/System/Library/Frameworks/GLUT.framework/Headers/vvector.h	132;"	d
+VEC_ZERO	/System/Library/Frameworks/GLUT.framework/Headers/vvector.h	37;"	d
+VEC_ZERO_2	/System/Library/Frameworks/GLUT.framework/Headers/vvector.h	29;"	d
+VEC_ZERO_4	/System/Library/Frameworks/GLUT.framework/Headers/vvector.h	45;"	d
+VVAL	/System/Library/Frameworks/GLUT.framework/Headers/port.h	36;"	d
+VVAL	/System/Library/Frameworks/GLUT.framework/Headers/port.h	42;"	d
+WINGDIAPI	/System/Library/Frameworks/GLUT.framework/Headers/glsmap.h	36;"	d
+WINGDIAPI	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	39;"	d
+WINGDIAPI	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	641;"	d
+X	/System/Library/Frameworks/GLUT.framework/Headers/glsmapint.h	/^enum { X = 0, Y = 1, Z = 2 };$/;"	e	enum:__anon3
+Y	/System/Library/Frameworks/GLUT.framework/Headers/glsmapint.h	/^enum { X = 0, Y = 1, Z = 2 };$/;"	e	enum:__anon3
+Z	/System/Library/Frameworks/GLUT.framework/Headers/glsmapint.h	/^enum { X = 0, Y = 1, Z = 2 };$/;"	e	enum:__anon3
+_STXY	/System/Library/Frameworks/GLUT.framework/Headers/glsmapint.h	/^typedef struct _STXY {$/;"	s
+_STXY::s	/System/Library/Frameworks/GLUT.framework/Headers/glsmapint.h	/^	GLfloat s, t;$/;"	m	struct:_STXY	access:public
+_STXY::t	/System/Library/Frameworks/GLUT.framework/Headers/glsmapint.h	/^	GLfloat s, t;$/;"	m	struct:_STXY	access:public
+_STXY::x	/System/Library/Frameworks/GLUT.framework/Headers/glsmapint.h	/^	GLfloat x, y;$/;"	m	struct:_STXY	access:public
+_STXY::y	/System/Library/Frameworks/GLUT.framework/Headers/glsmapint.h	/^	GLfloat x, y;$/;"	m	struct:_STXY	access:public
+_SphereMap	/System/Library/Frameworks/GLUT.framework/Headers/glsmapint.h	/^struct _SphereMap {$/;"	s
+_SphereMap::context	/System/Library/Frameworks/GLUT.framework/Headers/glsmapint.h	/^	void *context;$/;"	m	struct:_SphereMap	access:public
+_SphereMap::drawView	/System/Library/Frameworks/GLUT.framework/Headers/glsmapint.h	/^	void (*drawView)(int view, void *context);$/;"	m	struct:_SphereMap	access:public
+_SphereMap::eye	/System/Library/Frameworks/GLUT.framework/Headers/glsmapint.h	/^	GLfloat eye[3];$/;"	m	struct:_SphereMap	access:public
+_SphereMap::flags	/System/Library/Frameworks/GLUT.framework/Headers/glsmapint.h	/^        SphereMapFlags flags;$/;"	m	struct:_SphereMap	access:public
+_SphereMap::mesh	/System/Library/Frameworks/GLUT.framework/Headers/glsmapint.h	/^	SphereMapMesh *mesh;$/;"	m	struct:_SphereMap	access:public
+_SphereMap::obj	/System/Library/Frameworks/GLUT.framework/Headers/glsmapint.h	/^	GLfloat obj[3];$/;"	m	struct:_SphereMap	access:public
+_SphereMap::positionLights	/System/Library/Frameworks/GLUT.framework/Headers/glsmapint.h	/^	void (*positionLights)(int view, void *context);$/;"	m	struct:_SphereMap	access:public
+_SphereMap::smapOrigin	/System/Library/Frameworks/GLUT.framework/Headers/glsmapint.h	/^	int smapOrigin[2];$/;"	m	struct:_SphereMap	access:public
+_SphereMap::smapTexDim	/System/Library/Frameworks/GLUT.framework/Headers/glsmapint.h	/^	int smapTexDim;  \/* sphere map texture dimension *\/$/;"	m	struct:_SphereMap	access:public
+_SphereMap::smapTexObj	/System/Library/Frameworks/GLUT.framework/Headers/glsmapint.h	/^	GLuint smapTexObj;$/;"	m	struct:_SphereMap	access:public
+_SphereMap::up	/System/Library/Frameworks/GLUT.framework/Headers/glsmapint.h	/^	GLfloat up[3];$/;"	m	struct:_SphereMap	access:public
+_SphereMap::viewFar	/System/Library/Frameworks/GLUT.framework/Headers/glsmapint.h	/^	GLfloat viewFar;$/;"	m	struct:_SphereMap	access:public
+_SphereMap::viewNear	/System/Library/Frameworks/GLUT.framework/Headers/glsmapint.h	/^	GLfloat viewNear;$/;"	m	struct:_SphereMap	access:public
+_SphereMap::viewOrigin	/System/Library/Frameworks/GLUT.framework/Headers/glsmapint.h	/^	int viewOrigin[2];$/;"	m	struct:_SphereMap	access:public
+_SphereMap::viewTexDim	/System/Library/Frameworks/GLUT.framework/Headers/glsmapint.h	/^	int viewTexDim;  \/* view texture dimension *\/$/;"	m	struct:_SphereMap	access:public
+_SphereMap::viewTexObj	/System/Library/Frameworks/GLUT.framework/Headers/glsmapint.h	/^	GLuint viewTexObj;$/;"	m	struct:_SphereMap	access:public
+_SphereMap::viewTexObjs	/System/Library/Frameworks/GLUT.framework/Headers/glsmapint.h	/^	GLuint viewTexObjs[6];$/;"	m	struct:_SphereMap	access:public
+_SphereMapMesh	/System/Library/Frameworks/GLUT.framework/Headers/glsmapint.h	/^typedef struct _SphereMapMesh {$/;"	s
+_SphereMapMesh::back	/System/Library/Frameworks/GLUT.framework/Headers/glsmapint.h	/^	STXY *back;$/;"	m	struct:_SphereMapMesh	access:public
+_SphereMapMesh::edgeExtend	/System/Library/Frameworks/GLUT.framework/Headers/glsmapint.h	/^	int edgeExtend;$/;"	m	struct:_SphereMapMesh	access:public
+_SphereMapMesh::face	/System/Library/Frameworks/GLUT.framework/Headers/glsmapint.h	/^	STXY *face;$/;"	m	struct:_SphereMapMesh	access:public
+_SphereMapMesh::refcnt	/System/Library/Frameworks/GLUT.framework/Headers/glsmapint.h	/^	int refcnt;$/;"	m	struct:_SphereMapMesh	access:public
+_SphereMapMesh::rings	/System/Library/Frameworks/GLUT.framework/Headers/glsmapint.h	/^	int rings;$/;"	m	struct:_SphereMapMesh	access:public
+_SphereMapMesh::steps	/System/Library/Frameworks/GLUT.framework/Headers/glsmapint.h	/^	int steps;$/;"	m	struct:_SphereMapMesh	access:public
+_WCHAR_T_DEFINED	/System/Library/Frameworks/GLUT.framework/Headers/glsmap.h	41;"	d
+_WCHAR_T_DEFINED	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	44;"	d
+__GLE_DOUBLE	/System/Library/Frameworks/GLUT.framework/Headers/port.h	58;"	d
+__GLE_PORT_H__	/System/Library/Frameworks/GLUT.framework/Headers/port.h	15;"	d
+__GUTIL_H__	/System/Library/Frameworks/GLUT.framework/Headers/gutil.h	15;"	d
+__GUTIL_VECTOR_H__	/System/Library/Frameworks/GLUT.framework/Headers/vvector.h	16;"	d
+__IS_LIGHTING_ON	/System/Library/Frameworks/GLUT.framework/Headers/port.h	130;"	d
+__IS_LIGHTING_ON	/System/Library/Frameworks/GLUT.framework/Headers/port.h	187;"	d
+__IS_LIGHTING_ON	/System/Library/Frameworks/GLUT.framework/Headers/port.h	231;"	d
+__TUBE_ANGLE_JOIN	/System/Library/Frameworks/GLUT.framework/Headers/tube_gc.h	75;"	d
+__TUBE_CLOSE_CONTOUR	/System/Library/Frameworks/GLUT.framework/Headers/tube_gc.h	67;"	d
+__TUBE_CUT_JOIN	/System/Library/Frameworks/GLUT.framework/Headers/tube_gc.h	74;"	d
+__TUBE_DRAW_CAP	/System/Library/Frameworks/GLUT.framework/Headers/tube_gc.h	68;"	d
+__TUBE_DRAW_FACET_NORMALS	/System/Library/Frameworks/GLUT.framework/Headers/tube_gc.h	69;"	d
+__TUBE_DRAW_PATH_EDGE_NORMALS	/System/Library/Frameworks/GLUT.framework/Headers/tube_gc.h	70;"	d
+__TUBE_H__	/System/Library/Frameworks/GLUT.framework/Headers/tube.h	14;"	d
+__TUBE_RAW_JOIN	/System/Library/Frameworks/GLUT.framework/Headers/tube_gc.h	73;"	d
+__TUBE_ROUND_JOIN	/System/Library/Frameworks/GLUT.framework/Headers/tube_gc.h	76;"	d
+__TUBE_STYLE	/System/Library/Frameworks/GLUT.framework/Headers/tube_gc.h	72;"	d
+__anon10::accum_seg_len	/System/Library/Frameworks/GLUT.framework/Headers/tube_gc.h	/^   double accum_seg_len;$/;"	m	struct:__anon10	access:public
+__anon10::bgn_gen_texture	/System/Library/Frameworks/GLUT.framework/Headers/tube_gc.h	/^   void (*bgn_gen_texture) (int, double);$/;"	m	struct:__anon10	access:public
+__anon10::color_array	/System/Library/Frameworks/GLUT.framework/Headers/tube_gc.h	/^   gleColor *color_array;         \/* path colors *\/$/;"	m	struct:__anon10	access:public
+__anon10::cont_normal	/System/Library/Frameworks/GLUT.framework/Headers/tube_gc.h	/^   gleTwoVec *cont_normal;  \/* 2D contour normals *\/$/;"	m	struct:__anon10	access:public
+__anon10::contour	/System/Library/Frameworks/GLUT.framework/Headers/tube_gc.h	/^   gleTwoVec *contour;    \/* 2D contour *\/$/;"	m	struct:__anon10	access:public
+__anon10::end_gen_texture	/System/Library/Frameworks/GLUT.framework/Headers/tube_gc.h	/^   void (*end_gen_texture) (void);$/;"	m	struct:__anon10	access:public
+__anon10::join_style	/System/Library/Frameworks/GLUT.framework/Headers/tube_gc.h	/^   int join_style;$/;"	m	struct:__anon10	access:public
+__anon10::n3d_gen_texture	/System/Library/Frameworks/GLUT.framework/Headers/tube_gc.h	/^   void (*n3d_gen_texture) (double *);$/;"	m	struct:__anon10	access:public
+__anon10::n3f_gen_texture	/System/Library/Frameworks/GLUT.framework/Headers/tube_gc.h	/^   void (*n3f_gen_texture) (float *);$/;"	m	struct:__anon10	access:public
+__anon10::ncp	/System/Library/Frameworks/GLUT.framework/Headers/tube_gc.h	/^   int ncp;     \/* number of contour points *\/$/;"	m	struct:__anon10	access:public
+__anon10::npoints	/System/Library/Frameworks/GLUT.framework/Headers/tube_gc.h	/^   int npoints;  \/* number of points in polyline *\/$/;"	m	struct:__anon10	access:public
+__anon10::num_vert	/System/Library/Frameworks/GLUT.framework/Headers/tube_gc.h	/^   int num_vert;$/;"	m	struct:__anon10	access:public
+__anon10::point_array	/System/Library/Frameworks/GLUT.framework/Headers/tube_gc.h	/^   gleVector *point_array;     \/* path *\/$/;"	m	struct:__anon10	access:public
+__anon10::prev_x	/System/Library/Frameworks/GLUT.framework/Headers/tube_gc.h	/^   double prev_x;$/;"	m	struct:__anon10	access:public
+__anon10::prev_y	/System/Library/Frameworks/GLUT.framework/Headers/tube_gc.h	/^   double prev_y;$/;"	m	struct:__anon10	access:public
+__anon10::save_bgn_gen_texture	/System/Library/Frameworks/GLUT.framework/Headers/tube_gc.h	/^   void (*save_bgn_gen_texture) (int, double);$/;"	m	struct:__anon10	access:public
+__anon10::save_end_gen_texture	/System/Library/Frameworks/GLUT.framework/Headers/tube_gc.h	/^   void (*save_end_gen_texture) (void);$/;"	m	struct:__anon10	access:public
+__anon10::save_n3d_gen_texture	/System/Library/Frameworks/GLUT.framework/Headers/tube_gc.h	/^   void (*save_n3d_gen_texture) (double *);$/;"	m	struct:__anon10	access:public
+__anon10::save_n3f_gen_texture	/System/Library/Frameworks/GLUT.framework/Headers/tube_gc.h	/^   void (*save_n3f_gen_texture) (float *);$/;"	m	struct:__anon10	access:public
+__anon10::save_v3d_gen_texture	/System/Library/Frameworks/GLUT.framework/Headers/tube_gc.h	/^   void (*save_v3d_gen_texture) (double *, int, int);$/;"	m	struct:__anon10	access:public
+__anon10::save_v3f_gen_texture	/System/Library/Frameworks/GLUT.framework/Headers/tube_gc.h	/^   void (*save_v3f_gen_texture) (float *, int, int);$/;"	m	struct:__anon10	access:public
+__anon10::segment_length	/System/Library/Frameworks/GLUT.framework/Headers/tube_gc.h	/^   double segment_length;$/;"	m	struct:__anon10	access:public
+__anon10::segment_number	/System/Library/Frameworks/GLUT.framework/Headers/tube_gc.h	/^   int segment_number;$/;"	m	struct:__anon10	access:public
+__anon10::up	/System/Library/Frameworks/GLUT.framework/Headers/tube_gc.h	/^   gleDouble *up;               \/* up vector *\/$/;"	m	struct:__anon10	access:public
+__anon10::v3d_gen_texture	/System/Library/Frameworks/GLUT.framework/Headers/tube_gc.h	/^   void (*v3d_gen_texture) (double *, int, int);$/;"	m	struct:__anon10	access:public
+__anon10::v3f_gen_texture	/System/Library/Frameworks/GLUT.framework/Headers/tube_gc.h	/^   void (*v3f_gen_texture) (float *, int, int);$/;"	m	struct:__anon10	access:public
+__anon10::xform_array	/System/Library/Frameworks/GLUT.framework/Headers/tube_gc.h	/^   gleAffine *xform_array;  \/* contour xforms *\/$/;"	m	struct:__anon10	access:public
+__anon4::advance	/System/Library/Frameworks/GLUT.framework/Headers/glutbitmap.h	/^  const GLfloat advance;$/;"	m	struct:__anon4	access:public
+__anon4::bitmap	/System/Library/Frameworks/GLUT.framework/Headers/glutbitmap.h	/^  const GLubyte *bitmap;$/;"	m	struct:__anon4	access:public
+__anon4::height	/System/Library/Frameworks/GLUT.framework/Headers/glutbitmap.h	/^  const GLsizei height;$/;"	m	struct:__anon4	access:public
+__anon4::width	/System/Library/Frameworks/GLUT.framework/Headers/glutbitmap.h	/^  const GLsizei width;$/;"	m	struct:__anon4	access:public
+__anon4::xorig	/System/Library/Frameworks/GLUT.framework/Headers/glutbitmap.h	/^  const GLfloat xorig;$/;"	m	struct:__anon4	access:public
+__anon4::yorig	/System/Library/Frameworks/GLUT.framework/Headers/glutbitmap.h	/^  const GLfloat yorig;$/;"	m	struct:__anon4	access:public
+__anon5::ch	/System/Library/Frameworks/GLUT.framework/Headers/glutbitmap.h	/^  const BitmapCharRec * const *ch;$/;"	m	struct:__anon5	access:public
+__anon5::first	/System/Library/Frameworks/GLUT.framework/Headers/glutbitmap.h	/^  const int first;$/;"	m	struct:__anon5	access:public
+__anon5::name	/System/Library/Frameworks/GLUT.framework/Headers/glutbitmap.h	/^  const char *name;$/;"	m	struct:__anon5	access:public
+__anon5::num_chars	/System/Library/Frameworks/GLUT.framework/Headers/glutbitmap.h	/^  const int num_chars;$/;"	m	struct:__anon5	access:public
+__anon6::x	/System/Library/Frameworks/GLUT.framework/Headers/glutstroke.h	/^  float x;$/;"	m	struct:__anon6	access:public
+__anon6::y	/System/Library/Frameworks/GLUT.framework/Headers/glutstroke.h	/^  float y;$/;"	m	struct:__anon6	access:public
+__anon7::coord	/System/Library/Frameworks/GLUT.framework/Headers/glutstroke.h	/^  const CoordRec *coord;$/;"	m	struct:__anon7	access:public
+__anon7::num_coords	/System/Library/Frameworks/GLUT.framework/Headers/glutstroke.h	/^  int num_coords;$/;"	m	struct:__anon7	access:public
+__anon8::center	/System/Library/Frameworks/GLUT.framework/Headers/glutstroke.h	/^  float center;$/;"	m	struct:__anon8	access:public
+__anon8::num_strokes	/System/Library/Frameworks/GLUT.framework/Headers/glutstroke.h	/^  int num_strokes;$/;"	m	struct:__anon8	access:public
+__anon8::right	/System/Library/Frameworks/GLUT.framework/Headers/glutstroke.h	/^  float right;$/;"	m	struct:__anon8	access:public
+__anon8::stroke	/System/Library/Frameworks/GLUT.framework/Headers/glutstroke.h	/^  const StrokeRec *stroke;$/;"	m	struct:__anon8	access:public
+__anon9::bottom	/System/Library/Frameworks/GLUT.framework/Headers/glutstroke.h	/^  float bottom;$/;"	m	struct:__anon9	access:public
+__anon9::ch	/System/Library/Frameworks/GLUT.framework/Headers/glutstroke.h	/^  const StrokeCharRec *ch;$/;"	m	struct:__anon9	access:public
+__anon9::name	/System/Library/Frameworks/GLUT.framework/Headers/glutstroke.h	/^  const char *name;$/;"	m	struct:__anon9	access:public
+__anon9::num_chars	/System/Library/Frameworks/GLUT.framework/Headers/glutstroke.h	/^  int num_chars;$/;"	m	struct:__anon9	access:public
+__anon9::top	/System/Library/Frameworks/GLUT.framework/Headers/glutstroke.h	/^  float top;$/;"	m	struct:__anon9	access:public
+__glsmap_h__	/System/Library/Frameworks/GLUT.framework/Headers/glsmap.h	2;"	d
+__glsmapint_h__	/System/Library/Frameworks/GLUT.framework/Headers/glsmapint.h	2;"	d
+__glutGetFCB	/System/Library/Frameworks/GLUT.framework/Headers/glutf90.h	/^extern void* APIENTRY __glutGetFCB(int which);$/;"	p	signature:(int which)
+__glutSetFCB	/System/Library/Frameworks/GLUT.framework/Headers/glutf90.h	/^extern void APIENTRY __glutSetFCB(int which, void *func);$/;"	p	signature:(int which, void *func)
+__glut_h__	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	2;"	d
+__glutbitmap_h__	/System/Library/Frameworks/GLUT.framework/Headers/glutbitmap.h	2;"	d
+__glutf90_h__	/System/Library/Frameworks/GLUT.framework/Headers/glutf90.h	2;"	d
+__glutstroke_h__	/System/Library/Frameworks/GLUT.framework/Headers/glutstroke.h	2;"	d
+__smapDrawSphereMapMeshBack	/System/Library/Frameworks/GLUT.framework/Headers/glsmapint.h	/^extern void __smapDrawSphereMapMeshBack(SphereMapMesh *mesh);$/;"	p	signature:(SphereMapMesh *mesh)
+__smapDrawSphereMapMeshSide	/System/Library/Frameworks/GLUT.framework/Headers/glsmapint.h	/^extern void __smapDrawSphereMapMeshSide(SphereMapMesh *mesh, int side);$/;"	p	signature:(SphereMapMesh *mesh, int side)
+__smapValidateSphereMapMesh	/System/Library/Frameworks/GLUT.framework/Headers/glsmapint.h	/^extern void __smapValidateSphereMapMesh(SphereMapMesh *mesh);$/;"	p	signature:(SphereMapMesh *mesh)
+accum_seg_len	/System/Library/Frameworks/GLUT.framework/Headers/tube_gc.h	/^   double accum_seg_len;$/;"	m	struct:__anon10	access:public
+advance	/System/Library/Frameworks/GLUT.framework/Headers/glutbitmap.h	/^  const GLfloat advance;$/;"	m	struct:__anon4	access:public
+back	/System/Library/Frameworks/GLUT.framework/Headers/glsmapint.h	/^	STXY *back;$/;"	m	struct:_SphereMapMesh	access:public
+bgn_gen_texture	/System/Library/Frameworks/GLUT.framework/Headers/tube_gc.h	/^   void (*bgn_gen_texture) (int, double);$/;"	m	struct:__anon10	access:public
+bisecting_plane	/System/Library/Frameworks/GLUT.framework/Headers/intersect.h	/^extern int bisecting_plane (gleDouble n[3],    \/* returned *\/$/;"	p	signature:(gleDouble n[3], gleDouble v1[3], gleDouble v2[3], gleDouble v3[3])
+bitmap	/System/Library/Frameworks/GLUT.framework/Headers/glutbitmap.h	/^  const GLubyte *bitmap;$/;"	m	struct:__anon4	access:public
+bottom	/System/Library/Frameworks/GLUT.framework/Headers/glutstroke.h	/^  float bottom;$/;"	m	struct:__anon9	access:public
+center	/System/Library/Frameworks/GLUT.framework/Headers/glutstroke.h	/^  float center;$/;"	m	struct:__anon8	access:public
+ch	/System/Library/Frameworks/GLUT.framework/Headers/glutbitmap.h	/^  const BitmapCharRec * const *ch;$/;"	m	struct:__anon5	access:public
+ch	/System/Library/Frameworks/GLUT.framework/Headers/glutstroke.h	/^  const StrokeCharRec *ch;$/;"	m	struct:__anon9	access:public
+color_array	/System/Library/Frameworks/GLUT.framework/Headers/tube_gc.h	/^   gleColor *color_array;         \/* path colors *\/$/;"	m	struct:__anon10	access:public
+cont_normal	/System/Library/Frameworks/GLUT.framework/Headers/tube_gc.h	/^   gleTwoVec *cont_normal;  \/* 2D contour normals *\/$/;"	m	struct:__anon10	access:public
+context	/System/Library/Frameworks/GLUT.framework/Headers/glsmapint.h	/^	void *context;$/;"	m	struct:_SphereMap	access:public
+contour	/System/Library/Frameworks/GLUT.framework/Headers/tube_gc.h	/^   gleTwoVec *contour;    \/* 2D contour *\/$/;"	m	struct:__anon10	access:public
+coord	/System/Library/Frameworks/GLUT.framework/Headers/glutstroke.h	/^  const CoordRec *coord;$/;"	m	struct:__anon7	access:public
+drawView	/System/Library/Frameworks/GLUT.framework/Headers/glsmapint.h	/^	void (*drawView)(int view, void *context);$/;"	m	struct:_SphereMap	access:public
+draw_angle_style_back_cap	/System/Library/Frameworks/GLUT.framework/Headers/segment.h	/^extern void draw_angle_style_back_cap (int ncp,        \/* number of contour points *\/$/;"	p	signature:(int ncp, gleDouble bi[3], gleDouble point_array[][3])
+draw_angle_style_front_cap	/System/Library/Frameworks/GLUT.framework/Headers/extrude.h	/^extern void draw_angle_style_front_cap (int ncp,$/;"	p	signature:(int ncp, gleDouble bi[3], gleDouble point_array[][3])
+draw_binorm_segment_c_and_edge_n	/System/Library/Frameworks/GLUT.framework/Headers/segment.h	/^extern void draw_binorm_segment_c_and_edge_n (int ncp,   $/;"	p	signature:(int ncp, double front_contour[][3], double back_contour[][3], double front_norm[][3], double back_norm[][3], float color_last[3], float color_next[3], int inext, double len)
+draw_binorm_segment_c_and_facet_n	/System/Library/Frameworks/GLUT.framework/Headers/segment.h	/^extern void draw_binorm_segment_c_and_facet_n (int ncp,    $/;"	p	signature:(int ncp, double front_contour[][3], double back_contour[][3], double front_norm[][3], double back_norm[][3], float color_last[3], float color_next[3], int inext, double len)
+draw_binorm_segment_edge_n	/System/Library/Frameworks/GLUT.framework/Headers/segment.h	/^extern void draw_binorm_segment_edge_n (int ncp,  $/;"	p	signature:(int ncp, double front_contour[][3], double back_contour[][3], double front_norm[][3], double back_norm[][3], int inext, double len)
+draw_binorm_segment_facet_n	/System/Library/Frameworks/GLUT.framework/Headers/segment.h	/^extern void draw_binorm_segment_facet_n (int ncp, $/;"	p	signature:(int ncp, double front_contour[][3], double back_contour[][3], double front_norm[][3], double back_norm[][3], int inext, double len)
+draw_raw_style_end_cap	/System/Library/Frameworks/GLUT.framework/Headers/extrude.h	/^extern void draw_raw_style_end_cap (int ncp,     \/* number of contour points *\/$/;"	p	signature:(int ncp, gleDouble contour[][2], gleDouble zval, int frontwards)
+draw_round_style_cap_callback	/System/Library/Frameworks/GLUT.framework/Headers/extrude.h	/^extern void draw_round_style_cap_callback (int iloop,$/;"	p	signature:(int iloop, double cap[][3], float face_color[3], gleDouble cut_vector[3], gleDouble bisect_vector[3], double norms[][3], int frontwards)
+draw_segment_c_and_edge_n	/System/Library/Frameworks/GLUT.framework/Headers/segment.h	/^extern void draw_segment_c_and_edge_n (int ncp,   $/;"	p	signature:(int ncp, gleDouble front_contour[][3], gleDouble back_contour[][3], double norm_cont[][3], float color_last[3], float color_next[3], int inext, double len)
+draw_segment_c_and_facet_n	/System/Library/Frameworks/GLUT.framework/Headers/segment.h	/^extern void draw_segment_c_and_facet_n (int ncp,    $/;"	p	signature:(int ncp, gleDouble front_contour[][3], gleDouble back_contour[][3], double norm_cont[][3], float color_last[3], float color_next[3], int inext, double len)
+draw_segment_color	/System/Library/Frameworks/GLUT.framework/Headers/segment.h	/^extern void draw_segment_color (int ncp,       \/* number of contour points *\/$/;"	p	signature:(int ncp, gleDouble front_contour[][3], gleDouble back_contour[][3], float color_last[3], float color_next[3], int inext, double len)
+draw_segment_edge_n	/System/Library/Frameworks/GLUT.framework/Headers/segment.h	/^extern void draw_segment_edge_n (int ncp,      \/* number of contour points *\/$/;"	p	signature:(int ncp, gleDouble front_contour[][3], gleDouble back_contour[][3], double norm_cont[][3], int inext, double len)
+draw_segment_facet_n	/System/Library/Frameworks/GLUT.framework/Headers/segment.h	/^extern void draw_segment_facet_n (int ncp,     $/;"	p	signature:(int ncp, gleDouble front_contour[][3], gleDouble back_contour[][3], double norm_cont[][3], int inext, double len)
+draw_segment_plain	/System/Library/Frameworks/GLUT.framework/Headers/segment.h	/^extern void draw_segment_plain (int ncp,       \/* number of contour points *\/$/;"	p	signature:(int ncp, gleDouble front_contour[][3], gleDouble back_contour[][3], int inext, double len)
+edgeExtend	/System/Library/Frameworks/GLUT.framework/Headers/glsmapint.h	/^	int edgeExtend;$/;"	m	struct:_SphereMapMesh	access:public
+end_gen_texture	/System/Library/Frameworks/GLUT.framework/Headers/tube_gc.h	/^   void (*end_gen_texture) (void);$/;"	m	struct:__anon10	access:public
+extrusion_angle_join	/System/Library/Frameworks/GLUT.framework/Headers/extrude.h	/^extern void extrusion_angle_join (int ncp,      \/* number of contour points *\/$/;"	p	signature:(int ncp, gleDouble contour[][2], gleDouble cont_normal[][2], gleDouble up[3], int npoints, gleDouble point_array[][3], float color_array[][3], gleDouble xform_array[][2][3])
+extrusion_join_style	/System/Library/Frameworks/GLUT.framework/Headers/tube_gc.h	65;"	d
+extrusion_raw_join	/System/Library/Frameworks/GLUT.framework/Headers/extrude.h	/^extern void extrusion_raw_join (int ncp,        \/* number of contour points *\/$/;"	p	signature:(int ncp, gleDouble contour[][2], gleDouble cont_normal[][2], gleDouble up[3], int npoints, gleDouble point_array[][3], float color_array[][3], gleDouble xform_array[][2][3])
+extrusion_round_or_cut_join	/System/Library/Frameworks/GLUT.framework/Headers/extrude.h	/^extern void extrusion_round_or_cut_join (int ncp, \/* number of contour points *\/$/;"	p	signature:(int ncp, gleDouble contour[][2], gleDouble cont_normal[][2], gleDouble up[3], int npoints, gleDouble point_array[][3], float color_array[][3], gleDouble xform_array[][2][3])
+eye	/System/Library/Frameworks/GLUT.framework/Headers/glsmapint.h	/^	GLfloat eye[3];$/;"	m	struct:_SphereMap	access:public
+face	/System/Library/Frameworks/GLUT.framework/Headers/glsmapint.h	/^	STXY *face;$/;"	m	struct:_SphereMapMesh	access:public
+first	/System/Library/Frameworks/GLUT.framework/Headers/glutbitmap.h	/^  const int first;$/;"	m	struct:__anon5	access:public
+flags	/System/Library/Frameworks/GLUT.framework/Headers/glsmapint.h	/^        SphereMapFlags flags;$/;"	m	struct:_SphereMap	access:public
+gleAffine	/System/Library/Frameworks/GLUT.framework/Headers/tube.h	/^typedef gleDouble gleAffine[2][3];$/;"	t
+gleColor	/System/Library/Frameworks/GLUT.framework/Headers/tube_gc.h	/^typedef float gleColor[3];$/;"	t
+gleCreateGC	/System/Library/Frameworks/GLUT.framework/Headers/tube_gc.h	/^extern gleGC * gleCreateGC (void);$/;"	p	signature:(void)
+gleDouble	/System/Library/Frameworks/GLUT.framework/Headers/port.h	64;"	d
+gleDouble	/System/Library/Frameworks/GLUT.framework/Headers/port.h	75;"	d
+gleDouble	/System/Library/Frameworks/GLUT.framework/Headers/tube.h	34;"	d
+gleExtrusion	/System/Library/Frameworks/GLUT.framework/Headers/tube.h	/^extern void gleExtrusion (int ncp,         \/* number of contour points *\/$/;"	p	signature:(int ncp, gleDouble contour[][2], gleDouble cont_normal[][2], gleDouble up[3], int npoints, gleDouble point_array[][3], float color_array[][3])
+gleExtrusion	/System/Library/Frameworks/GLUT.framework/Headers/tube.h	76;"	d
+gleGC	/System/Library/Frameworks/GLUT.framework/Headers/tube_gc.h	/^} gleGC;$/;"	t	typeref:struct:__anon10
+gleGetJoinStyle	/System/Library/Frameworks/GLUT.framework/Headers/tube.h	/^extern int gleGetJoinStyle (void);$/;"	p	signature:(void)
+gleGetJoinStyle	/System/Library/Frameworks/GLUT.framework/Headers/tube.h	78;"	d
+gleGetNumSlices	/System/Library/Frameworks/GLUT.framework/Headers/tube.h	/^extern int gleGetNumSlices(void);$/;"	p	signature:(void)
+gleHelicoid	/System/Library/Frameworks/GLUT.framework/Headers/tube.h	/^extern void gleHelicoid (gleDouble rToroid, \/* circle contour (torus) radius *\/$/;"	p	signature:(gleDouble rToroid, gleDouble startRadius, gleDouble drdTheta, gleDouble startZ, gleDouble dzdTheta, gleDouble startXform[2][3], gleDouble dXformdTheta[2][3], gleDouble startTheta, gleDouble sweepTheta)
+gleHelicoid	/System/Library/Frameworks/GLUT.framework/Headers/tube.h	85;"	d
+gleLathe	/System/Library/Frameworks/GLUT.framework/Headers/tube.h	/^extern void gleLathe (int ncp,        \/* number of contour points *\/$/;"	p	signature:(int ncp, gleDouble contour[][2], gleDouble cont_normal[][2], gleDouble up[3], gleDouble startRadius, gleDouble drdTheta, gleDouble startZ, gleDouble dzdTheta, gleDouble startXform[2][3], gleDouble dXformdTheta[2][3], gleDouble startTheta, gleDouble sweepTheta)
+gleLathe	/System/Library/Frameworks/GLUT.framework/Headers/tube.h	84;"	d
+glePoint	/System/Library/Frameworks/GLUT.framework/Headers/port.h	/^typedef double glePoint[2];$/;"	t
+glePolyCone	/System/Library/Frameworks/GLUT.framework/Headers/tube.h	/^extern void glePolyCone (int npoints,	 \/* numpoints in poly-line *\/$/;"	p	signature:(int npoints, gleDouble point_array[][3], float color_array[][3], gleDouble radius_array[])
+glePolyCone	/System/Library/Frameworks/GLUT.framework/Headers/tube.h	79;"	d
+glePolyCylinder	/System/Library/Frameworks/GLUT.framework/Headers/tube.h	/^extern void glePolyCylinder (int npoints,	\/* num points in polyline *\/$/;"	p	signature:(int npoints, gleDouble point_array[][3], float color_array[][3], gleDouble radius)
+glePolyCylinder	/System/Library/Frameworks/GLUT.framework/Headers/tube.h	80;"	d
+gleScrew	/System/Library/Frameworks/GLUT.framework/Headers/tube.h	/^extern void gleScrew (int ncp,          \/* number of contour points *\/$/;"	p	signature:(int ncp, gleDouble contour[][2], gleDouble cont_normal[][2], gleDouble up[3], gleDouble startz, gleDouble endz, gleDouble twist)
+gleScrew	/System/Library/Frameworks/GLUT.framework/Headers/tube.h	87;"	d
+gleSetJoinStyle	/System/Library/Frameworks/GLUT.framework/Headers/tube.h	/^extern void gleSetJoinStyle (int style);	\/* bitwise OR of flags *\/$/;"	p	signature:(int style)
+gleSetJoinStyle	/System/Library/Frameworks/GLUT.framework/Headers/tube.h	77;"	d
+gleSetNumSlices	/System/Library/Frameworks/GLUT.framework/Headers/tube.h	/^extern void gleSetNumSlices(int slices);$/;"	p	signature:(int slices)
+gleSpiral	/System/Library/Frameworks/GLUT.framework/Headers/tube.h	/^extern void gleSpiral (int ncp,        \/* number of contour points *\/$/;"	p	signature:(int ncp, gleDouble contour[][2], gleDouble cont_normal[][2], gleDouble up[3], gleDouble startRadius, gleDouble drdTheta, gleDouble startZ, gleDouble dzdTheta, gleDouble startXform[2][3], gleDouble dXformdTheta[2][3], gleDouble startTheta, gleDouble sweepTheta)
+gleSpiral	/System/Library/Frameworks/GLUT.framework/Headers/tube.h	83;"	d
+gleSuperExtrusion	/System/Library/Frameworks/GLUT.framework/Headers/tube.h	/^extern void gleSuperExtrusion (int ncp,  \/* number of contour points *\/$/;"	p	signature:(int ncp, gleDouble contour[][2], gleDouble cont_normal[][2], gleDouble up[3], int npoints, gleDouble point_array[][3], float color_array[][3], gleDouble xform_array[][2][3])
+gleSuperExtrusion	/System/Library/Frameworks/GLUT.framework/Headers/tube.h	81;"	d
+gleTextureMode	/System/Library/Frameworks/GLUT.framework/Headers/tube.h	/^extern void gleTextureMode (int mode);$/;"	p	signature:(int mode)
+gleToroid	/System/Library/Frameworks/GLUT.framework/Headers/tube.h	/^extern void gleToroid (gleDouble rToroid, \/* circle contour (torus) radius *\/$/;"	p	signature:(gleDouble rToroid, gleDouble startRadius, gleDouble drdTheta, gleDouble startZ, gleDouble dzdTheta, gleDouble startXform[2][3], gleDouble dXformdTheta[2][3], gleDouble startTheta, gleDouble sweepTheta)
+gleToroid	/System/Library/Frameworks/GLUT.framework/Headers/tube.h	86;"	d
+gleTwistExtrusion	/System/Library/Frameworks/GLUT.framework/Headers/tube.h	/^extern void gleTwistExtrusion (int ncp,         \/* number of contour points *\/$/;"	p	signature:(int ncp, gleDouble contour[][2], gleDouble cont_normal[][2], gleDouble up[3], int npoints, gleDouble point_array[][3], float color_array[][3], gleDouble twist_array[])
+gleTwistExtrusion	/System/Library/Frameworks/GLUT.framework/Headers/tube.h	82;"	d
+gleTwoVec	/System/Library/Frameworks/GLUT.framework/Headers/tube_gc.h	/^typedef double gleTwoVec[2];$/;"	t
+gleVector	/System/Library/Frameworks/GLUT.framework/Headers/port.h	/^typedef double gleVector[3];$/;"	t
+gleVector	/System/Library/Frameworks/GLUT.framework/Headers/port.h	/^typedef gleDouble gleVector;$/;"	t
+glutAddMenuEntry	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	/^extern void APIENTRY glutAddMenuEntry(const char *label, int value);$/;"	p	signature:(const char *label, int value)
+glutAddSubMenu	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	/^extern void APIENTRY glutAddSubMenu(const char *label, int submenu);$/;"	p	signature:(const char *label, int submenu)
+glutAttachMenu	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	/^extern void APIENTRY glutAttachMenu(int button);$/;"	p	signature:(int button)
+glutBitmapCharacter	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	/^extern void APIENTRY glutBitmapCharacter(void *font, int character);$/;"	p	signature:(void *font, int character)
+glutBitmapLength	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	/^extern int APIENTRY glutBitmapLength(void *font, const unsigned char *string);$/;"	p	signature:(void *font, const unsigned char *string)
+glutBitmapWidth	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	/^extern int APIENTRY glutBitmapWidth(void *font, int character);$/;"	p	signature:(void *font, int character)
+glutButtonBoxFunc	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	/^extern void APIENTRY glutButtonBoxFunc(void (*func)(int button, int state));$/;"	p	signature:(void (*func)(int button, int state))
+glutChangeToMenuEntry	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	/^extern void APIENTRY glutChangeToMenuEntry(int item, const char *label, int value);$/;"	p	signature:(int item, const char *label, int value)
+glutChangeToSubMenu	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	/^extern void APIENTRY glutChangeToSubMenu(int item, const char *label, int submenu);$/;"	p	signature:(int item, const char *label, int submenu)
+glutCheckLoop	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	/^extern void APIENTRY glutCheckLoop(void);$/;"	p	signature:(void)
+glutCopyColormap	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	/^extern void APIENTRY glutCopyColormap(int win);$/;"	p	signature:(int win)
+glutCreateMenu	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	/^extern int APIENTRY glutCreateMenu(void (*)(int));$/;"	p	signature:(void (*)(int))
+glutCreateSubWindow	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	/^extern int APIENTRY glutCreateSubWindow(int win, int x, int y, int width, int height);$/;"	p	signature:(int win, int x, int y, int width, int height)
+glutCreateWindow	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	/^extern int APIENTRY glutCreateWindow(const char *title);$/;"	p	signature:(const char *title)
+glutDestroyMenu	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	/^extern void APIENTRY glutDestroyMenu(int menu);$/;"	p	signature:(int menu)
+glutDestroyWindow	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	/^extern void APIENTRY glutDestroyWindow(int win);$/;"	p	signature:(int win)
+glutDetachMenu	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	/^extern void APIENTRY glutDetachMenu(int button);$/;"	p	signature:(int button)
+glutDeviceGet	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	/^extern int APIENTRY glutDeviceGet(GLenum type);$/;"	p	signature:(GLenum type)
+glutDialsFunc	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	/^extern void APIENTRY glutDialsFunc(void (*func)(int dial, int value));$/;"	p	signature:(void (*func)(int dial, int value))
+glutDisplayFunc	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	/^extern void APIENTRY glutDisplayFunc(void (*func)(void));$/;"	p	signature:(void (*func)(void))
+glutEnterGameMode	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	/^extern int APIENTRY glutEnterGameMode(void);$/;"	p	signature:(void)
+glutEntryFunc	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	/^extern void APIENTRY glutEntryFunc(void (*func)(int state));$/;"	p	signature:(void (*func)(int state))
+glutEstablishOverlay	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	/^extern void APIENTRY glutEstablishOverlay(void);$/;"	p	signature:(void)
+glutExtensionSupported	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	/^extern int APIENTRY glutExtensionSupported(const char *name);$/;"	p	signature:(const char *name)
+glutForceJoystickFunc	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	/^extern void APIENTRY glutForceJoystickFunc(void);$/;"	p	signature:(void)
+glutFullScreen	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	/^extern void APIENTRY glutFullScreen(void);$/;"	p	signature:(void)
+glutGameModeGet	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	/^extern int APIENTRY glutGameModeGet(GLenum mode);$/;"	p	signature:(GLenum mode)
+glutGameModeString	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	/^extern void APIENTRY glutGameModeString(const char *string);$/;"	p	signature:(const char *string)
+glutGet	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	/^extern int APIENTRY glutGet(GLenum type);$/;"	p	signature:(GLenum type)
+glutGetColor	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	/^extern GLfloat APIENTRY glutGetColor(int ndx, int component);$/;"	p	signature:(int ndx, int component)
+glutGetMenu	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	/^extern int APIENTRY glutGetMenu(void);$/;"	p	signature:(void)
+glutGetModifiers	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	/^extern int APIENTRY glutGetModifiers(void);$/;"	p	signature:(void)
+glutGetProcAddress	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	/^extern void * APIENTRY glutGetProcAddress(const char *procName);$/;"	p	signature:(const char *procName)
+glutGetWindow	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	/^extern int APIENTRY glutGetWindow(void);$/;"	p	signature:(void)
+glutHideOverlay	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	/^extern void APIENTRY glutHideOverlay(void);$/;"	p	signature:(void)
+glutHideWindow	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	/^extern void APIENTRY glutHideWindow(void);$/;"	p	signature:(void)
+glutIconifyWindow	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	/^extern void APIENTRY glutIconifyWindow(void);$/;"	p	signature:(void)
+glutIdleFunc	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	/^extern void APIENTRY glutIdleFunc(void (*func)(void));$/;"	p	signature:(void (*func)(void))
+glutIgnoreKeyRepeat	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	/^extern void APIENTRY glutIgnoreKeyRepeat(int ignore);$/;"	p	signature:(int ignore)
+glutInit	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	/^extern void APIENTRY glutInit(int *argcp, char **argv);$/;"	p	signature:(int *argcp, char **argv)
+glutInitDisplayMode	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	/^extern void APIENTRY glutInitDisplayMode(unsigned int mode);$/;"	p	signature:(unsigned int mode)
+glutInitDisplayString	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	/^extern void APIENTRY glutInitDisplayString(const char *string);$/;"	p	signature:(const char *string)
+glutInitWindowPosition	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	/^extern void APIENTRY glutInitWindowPosition(int x, int y);$/;"	p	signature:(int x, int y)
+glutInitWindowSize	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	/^extern void APIENTRY glutInitWindowSize(int width, int height);$/;"	p	signature:(int width, int height)
+glutJoystickFunc	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	/^extern void APIENTRY glutJoystickFunc(void (*func)(unsigned int buttonMask, int x, int y, int z), int pollInterval);$/;"	p	signature:(void (*func)(unsigned int buttonMask, int x, int y, int z), int pollInterval)
+glutKeyboardFunc	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	/^extern void APIENTRY glutKeyboardFunc(void (*func)(unsigned char key, int x, int y));$/;"	p	signature:(void (*func)(unsigned char key, int x, int y))
+glutKeyboardUpFunc	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	/^extern void APIENTRY glutKeyboardUpFunc(void (*func)(unsigned char key, int x, int y));$/;"	p	signature:(void (*func)(unsigned char key, int x, int y))
+glutLayerGet	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	/^extern int APIENTRY glutLayerGet(GLenum type);$/;"	p	signature:(GLenum type)
+glutLeaveGameMode	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	/^extern void APIENTRY glutLeaveGameMode(void);$/;"	p	signature:(void)
+glutMainLoop	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	/^extern void APIENTRY glutMainLoop(void);$/;"	p	signature:(void)
+glutMenuStateFunc	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	/^extern void APIENTRY glutMenuStateFunc(void (*func)(int state));$/;"	p	signature:(void (*func)(int state))
+glutMenuStatusFunc	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	/^extern void APIENTRY glutMenuStatusFunc(void (*func)(int status, int x, int y));$/;"	p	signature:(void (*func)(int status, int x, int y))
+glutMotionFunc	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	/^extern void APIENTRY glutMotionFunc(void (*func)(int x, int y));$/;"	p	signature:(void (*func)(int x, int y))
+glutMouseFunc	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	/^extern void APIENTRY glutMouseFunc(void (*func)(int button, int state, int x, int y));$/;"	p	signature:(void (*func)(int button, int state, int x, int y))
+glutOverlayDisplayFunc	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	/^extern void APIENTRY glutOverlayDisplayFunc(void (*func)(void));$/;"	p	signature:(void (*func)(void))
+glutPassiveMotionFunc	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	/^extern void APIENTRY glutPassiveMotionFunc(void (*func)(int x, int y));$/;"	p	signature:(void (*func)(int x, int y))
+glutPopWindow	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	/^extern void APIENTRY glutPopWindow(void);$/;"	p	signature:(void)
+glutPositionWindow	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	/^extern void APIENTRY glutPositionWindow(int x, int y);$/;"	p	signature:(int x, int y)
+glutPostOverlayRedisplay	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	/^extern void APIENTRY glutPostOverlayRedisplay(void);$/;"	p	signature:(void)
+glutPostRedisplay	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	/^extern void APIENTRY glutPostRedisplay(void);$/;"	p	signature:(void)
+glutPostWindowOverlayRedisplay	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	/^extern void APIENTRY glutPostWindowOverlayRedisplay(int win);$/;"	p	signature:(int win)
+glutPostWindowRedisplay	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	/^extern void APIENTRY glutPostWindowRedisplay(int win);$/;"	p	signature:(int win)
+glutPushWindow	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	/^extern void APIENTRY glutPushWindow(void);$/;"	p	signature:(void)
+glutRemoveMenuItem	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	/^extern void APIENTRY glutRemoveMenuItem(int item);$/;"	p	signature:(int item)
+glutRemoveOverlay	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	/^extern void APIENTRY glutRemoveOverlay(void);$/;"	p	signature:(void)
+glutReportErrors	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	/^extern void APIENTRY glutReportErrors(void);$/;"	p	signature:(void)
+glutReshapeFunc	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	/^extern void APIENTRY glutReshapeFunc(void (*func)(int width, int height));$/;"	p	signature:(void (*func)(int width, int height))
+glutReshapeWindow	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	/^extern void APIENTRY glutReshapeWindow(int width, int height);$/;"	p	signature:(int width, int height)
+glutSetColor	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	/^extern void APIENTRY glutSetColor(int, GLfloat red, GLfloat green, GLfloat blue);$/;"	p	signature:(int, GLfloat red, GLfloat green, GLfloat blue)
+glutSetCursor	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	/^extern void APIENTRY glutSetCursor(int cursor);$/;"	p	signature:(int cursor)
+glutSetIconTitle	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	/^extern void APIENTRY glutSetIconTitle(const char *title);$/;"	p	signature:(const char *title)
+glutSetKeyRepeat	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	/^extern void APIENTRY glutSetKeyRepeat(int repeatMode);$/;"	p	signature:(int repeatMode)
+glutSetMenu	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	/^extern void APIENTRY glutSetMenu(int menu);$/;"	p	signature:(int menu)
+glutSetWindow	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	/^extern void APIENTRY glutSetWindow(int win);$/;"	p	signature:(int win)
+glutSetWindowTitle	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	/^extern void APIENTRY glutSetWindowTitle(const char *title);$/;"	p	signature:(const char *title)
+glutSetupVideoResizing	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	/^extern void APIENTRY glutSetupVideoResizing(void);$/;"	p	signature:(void)
+glutShowOverlay	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	/^extern void APIENTRY glutShowOverlay(void);$/;"	p	signature:(void)
+glutShowWindow	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	/^extern void APIENTRY glutShowWindow(void);$/;"	p	signature:(void)
+glutSolidCone	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	/^extern void APIENTRY glutSolidCone(GLdouble base, GLdouble height, GLint slices, GLint stacks);$/;"	p	signature:(GLdouble base, GLdouble height, GLint slices, GLint stacks)
+glutSolidCube	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	/^extern void APIENTRY glutSolidCube(GLdouble size);$/;"	p	signature:(GLdouble size)
+glutSolidDodecahedron	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	/^extern void APIENTRY glutSolidDodecahedron(void);$/;"	p	signature:(void)
+glutSolidIcosahedron	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	/^extern void APIENTRY glutSolidIcosahedron(void);$/;"	p	signature:(void)
+glutSolidOctahedron	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	/^extern void APIENTRY glutSolidOctahedron(void);$/;"	p	signature:(void)
+glutSolidSphere	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	/^extern void APIENTRY glutSolidSphere(GLdouble radius, GLint slices, GLint stacks);$/;"	p	signature:(GLdouble radius, GLint slices, GLint stacks)
+glutSolidTeapot	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	/^extern void APIENTRY glutSolidTeapot(GLdouble size);$/;"	p	signature:(GLdouble size)
+glutSolidTetrahedron	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	/^extern void APIENTRY glutSolidTetrahedron(void);$/;"	p	signature:(void)
+glutSolidTorus	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	/^extern void APIENTRY glutSolidTorus(GLdouble innerRadius, GLdouble outerRadius, GLint sides, GLint rings);$/;"	p	signature:(GLdouble innerRadius, GLdouble outerRadius, GLint sides, GLint rings)
+glutSpaceballButtonFunc	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	/^extern void APIENTRY glutSpaceballButtonFunc(void (*func)(int button, int state));$/;"	p	signature:(void (*func)(int button, int state))
+glutSpaceballMotionFunc	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	/^extern void APIENTRY glutSpaceballMotionFunc(void (*func)(int x, int y, int z));$/;"	p	signature:(void (*func)(int x, int y, int z))
+glutSpaceballRotateFunc	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	/^extern void APIENTRY glutSpaceballRotateFunc(void (*func)(int x, int y, int z));$/;"	p	signature:(void (*func)(int x, int y, int z))
+glutSpecialFunc	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	/^extern void APIENTRY glutSpecialFunc(void (*func)(int key, int x, int y));$/;"	p	signature:(void (*func)(int key, int x, int y))
+glutSpecialUpFunc	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	/^extern void APIENTRY glutSpecialUpFunc(void (*func)(int key, int x, int y));$/;"	p	signature:(void (*func)(int key, int x, int y))
+glutStopVideoResizing	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	/^extern void APIENTRY glutStopVideoResizing(void);$/;"	p	signature:(void)
+glutStrokeCharacter	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	/^extern void APIENTRY glutStrokeCharacter(void *font, int character);$/;"	p	signature:(void *font, int character)
+glutStrokeLength	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	/^extern int APIENTRY glutStrokeLength(void *font, const unsigned char *string);$/;"	p	signature:(void *font, const unsigned char *string)
+glutStrokeWidth	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	/^extern int APIENTRY glutStrokeWidth(void *font, int character);$/;"	p	signature:(void *font, int character)
+glutSurfaceTexture	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	/^extern void APIENTRY glutSurfaceTexture (GLenum target, GLenum internalformat, int surfacewin); AVAILABLE_MAC_OS_X_VERSION_10_2_AND_LATER_BUT_DEPRECATED_IN_MAC_OS_X_VERSION_10_5$/;"	p	signature:(GLenum target, GLenum internalformat, int surfacewin)
+glutSwapBuffers	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	/^extern void APIENTRY glutSwapBuffers(void);$/;"	p	signature:(void)
+glutTabletButtonFunc	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	/^extern void APIENTRY glutTabletButtonFunc(void (*func)(int button, int state, int x, int y));$/;"	p	signature:(void (*func)(int button, int state, int x, int y))
+glutTabletMotionFunc	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	/^extern void APIENTRY glutTabletMotionFunc(void (*func)(int x, int y));$/;"	p	signature:(void (*func)(int x, int y))
+glutTimerFunc	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	/^extern void APIENTRY glutTimerFunc(unsigned int millis, void (*func)(int value), int value);$/;"	p	signature:(unsigned int millis, void (*func)(int value), int value)
+glutUseLayer	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	/^extern void APIENTRY glutUseLayer(GLenum layer);$/;"	p	signature:(GLenum layer)
+glutVideoPan	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	/^extern void APIENTRY glutVideoPan(int x, int y, int width, int height);$/;"	p	signature:(int x, int y, int width, int height)
+glutVideoResize	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	/^extern void APIENTRY glutVideoResize(int x, int y, int width, int height);$/;"	p	signature:(int x, int y, int width, int height)
+glutVideoResizeGet	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	/^extern int APIENTRY glutVideoResizeGet(GLenum param);$/;"	p	signature:(GLenum param)
+glutVisibilityFunc	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	/^extern void APIENTRY glutVisibilityFunc(void (*func)(int state));$/;"	p	signature:(void (*func)(int state))
+glutWMCloseFunc	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	/^extern void APIENTRY glutWMCloseFunc(void (*func)(void));$/;"	p	signature:(void (*func)(void))
+glutWarpPointer	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	/^extern void APIENTRY glutWarpPointer(int x, int y);$/;"	p	signature:(int x, int y)
+glutWindowStatusFunc	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	/^extern void APIENTRY glutWindowStatusFunc(void (*func)(int state));$/;"	p	signature:(void (*func)(int state))
+glutWireCone	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	/^extern void APIENTRY glutWireCone(GLdouble base, GLdouble height, GLint slices, GLint stacks);$/;"	p	signature:(GLdouble base, GLdouble height, GLint slices, GLint stacks)
+glutWireCube	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	/^extern void APIENTRY glutWireCube(GLdouble size);$/;"	p	signature:(GLdouble size)
+glutWireDodecahedron	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	/^extern void APIENTRY glutWireDodecahedron(void);$/;"	p	signature:(void)
+glutWireIcosahedron	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	/^extern void APIENTRY glutWireIcosahedron(void);$/;"	p	signature:(void)
+glutWireOctahedron	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	/^extern void APIENTRY glutWireOctahedron(void);$/;"	p	signature:(void)
+glutWireSphere	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	/^extern void APIENTRY glutWireSphere(GLdouble radius, GLint slices, GLint stacks);$/;"	p	signature:(GLdouble radius, GLint slices, GLint stacks)
+glutWireTeapot	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	/^extern void APIENTRY glutWireTeapot(GLdouble size);$/;"	p	signature:(GLdouble size)
+glutWireTetrahedron	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	/^extern void APIENTRY glutWireTetrahedron(void);$/;"	p	signature:(void)
+glutWireTorus	/System/Library/Frameworks/GLUT.framework/Headers/glut.h	/^extern void APIENTRY glutWireTorus(GLdouble innerRadius, GLdouble outerRadius, GLint sides, GLint rings);$/;"	p	signature:(GLdouble innerRadius, GLdouble outerRadius, GLint sides, GLint rings)
+gutDouble	/System/Library/Frameworks/GLUT.framework/Headers/gutil.h	18;"	d
+gutDouble	/System/Library/Frameworks/GLUT.framework/Headers/gutil.h	20;"	d
+height	/System/Library/Frameworks/GLUT.framework/Headers/glutbitmap.h	/^  const GLsizei height;$/;"	m	struct:__anon4	access:public
+join_style	/System/Library/Frameworks/GLUT.framework/Headers/tube_gc.h	/^   int join_style;$/;"	m	struct:__anon10	access:public
+mesh	/System/Library/Frameworks/GLUT.framework/Headers/glsmapint.h	/^	SphereMapMesh *mesh;$/;"	m	struct:_SphereMap	access:public
+n3d_gen_texture	/System/Library/Frameworks/GLUT.framework/Headers/tube_gc.h	/^   void (*n3d_gen_texture) (double *);$/;"	m	struct:__anon10	access:public
+n3f_gen_texture	/System/Library/Frameworks/GLUT.framework/Headers/tube_gc.h	/^   void (*n3f_gen_texture) (float *);$/;"	m	struct:__anon10	access:public
+name	/System/Library/Frameworks/GLUT.framework/Headers/glutbitmap.h	/^  const char *name;$/;"	m	struct:__anon5	access:public
+name	/System/Library/Frameworks/GLUT.framework/Headers/glutstroke.h	/^  const char *name;$/;"	m	struct:__anon9	access:public
+ncp	/System/Library/Frameworks/GLUT.framework/Headers/tube_gc.h	/^   int ncp;     \/* number of contour points *\/$/;"	m	struct:__anon10	access:public
+npoints	/System/Library/Frameworks/GLUT.framework/Headers/tube_gc.h	/^   int npoints;  \/* number of points in polyline *\/$/;"	m	struct:__anon10	access:public
+num_chars	/System/Library/Frameworks/GLUT.framework/Headers/glutbitmap.h	/^  const int num_chars;$/;"	m	struct:__anon5	access:public
+num_chars	/System/Library/Frameworks/GLUT.framework/Headers/glutstroke.h	/^  int num_chars;$/;"	m	struct:__anon9	access:public
+num_coords	/System/Library/Frameworks/GLUT.framework/Headers/glutstroke.h	/^  int num_coords;$/;"	m	struct:__anon7	access:public
+num_strokes	/System/Library/Frameworks/GLUT.framework/Headers/glutstroke.h	/^  int num_strokes;$/;"	m	struct:__anon8	access:public
+num_vert	/System/Library/Frameworks/GLUT.framework/Headers/tube_gc.h	/^   int num_vert;$/;"	m	struct:__anon10	access:public
+obj	/System/Library/Frameworks/GLUT.framework/Headers/glsmapint.h	/^	GLfloat obj[3];$/;"	m	struct:_SphereMap	access:public
+point_array	/System/Library/Frameworks/GLUT.framework/Headers/tube_gc.h	/^   gleVector *point_array;     \/* path *\/$/;"	m	struct:__anon10	access:public
+positionLights	/System/Library/Frameworks/GLUT.framework/Headers/glsmapint.h	/^	void (*positionLights)(int view, void *context);$/;"	m	struct:_SphereMap	access:public
+prev_x	/System/Library/Frameworks/GLUT.framework/Headers/tube_gc.h	/^   double prev_x;$/;"	m	struct:__anon10	access:public
+prev_y	/System/Library/Frameworks/GLUT.framework/Headers/tube_gc.h	/^   double prev_y;$/;"	m	struct:__anon10	access:public
+refcnt	/System/Library/Frameworks/GLUT.framework/Headers/glsmapint.h	/^	int refcnt;$/;"	m	struct:_SphereMapMesh	access:public
+right	/System/Library/Frameworks/GLUT.framework/Headers/glutstroke.h	/^  float right;$/;"	m	struct:__anon8	access:public
+rings	/System/Library/Frameworks/GLUT.framework/Headers/glsmapint.h	/^	int rings;$/;"	m	struct:_SphereMapMesh	access:public
+rot_about_axis_d	/System/Library/Frameworks/GLUT.framework/Headers/gutil.h	/^extern void rot_about_axis_d ();$/;"	p	signature:()
+rot_about_axis_d	/System/Library/Frameworks/GLUT.framework/Headers/gutil.h	/^extern void rot_about_axis_d (double angle, double axis[3]);$/;"	p	signature:(double angle, double axis[3])
+rot_about_axis_f	/System/Library/Frameworks/GLUT.framework/Headers/gutil.h	/^extern void rot_about_axis_f ();$/;"	p	signature:()
+rot_about_axis_f	/System/Library/Frameworks/GLUT.framework/Headers/gutil.h	/^extern void rot_about_axis_f (float angle, float axis[3]);$/;"	p	signature:(float angle, float axis[3])
+rot_axis_d	/System/Library/Frameworks/GLUT.framework/Headers/gutil.h	/^extern void rot_axis_d ();$/;"	p	signature:()
+rot_axis_d	/System/Library/Frameworks/GLUT.framework/Headers/gutil.h	/^extern void rot_axis_d (double omega, double axis[3]);$/;"	p	signature:(double omega, double axis[3])
+rot_axis_f	/System/Library/Frameworks/GLUT.framework/Headers/gutil.h	/^extern void rot_axis_f ();$/;"	p	signature:()
+rot_axis_f	/System/Library/Frameworks/GLUT.framework/Headers/gutil.h	/^extern void rot_axis_f (float omega, float axis[3]);$/;"	p	signature:(float omega, float axis[3])
+rot_omega_d	/System/Library/Frameworks/GLUT.framework/Headers/gutil.h	/^extern void rot_omega_d ();$/;"	p	signature:()
+rot_omega_d	/System/Library/Frameworks/GLUT.framework/Headers/gutil.h	/^extern void rot_omega_d (double axis[3]);$/;"	p	signature:(double axis[3])
+rot_omega_f	/System/Library/Frameworks/GLUT.framework/Headers/gutil.h	/^extern void rot_omega_f ();$/;"	p	signature:()
+rot_omega_f	/System/Library/Frameworks/GLUT.framework/Headers/gutil.h	/^extern void rot_omega_f (float axis[3]);$/;"	p	signature:(float axis[3])
+s	/System/Library/Frameworks/GLUT.framework/Headers/glsmapint.h	/^	GLfloat s, t;$/;"	m	struct:_STXY	access:public
+save_bgn_gen_texture	/System/Library/Frameworks/GLUT.framework/Headers/tube_gc.h	/^   void (*save_bgn_gen_texture) (int, double);$/;"	m	struct:__anon10	access:public
+save_end_gen_texture	/System/Library/Frameworks/GLUT.framework/Headers/tube_gc.h	/^   void (*save_end_gen_texture) (void);$/;"	m	struct:__anon10	access:public
+save_n3d_gen_texture	/System/Library/Frameworks/GLUT.framework/Headers/tube_gc.h	/^   void (*save_n3d_gen_texture) (double *);$/;"	m	struct:__anon10	access:public
+save_n3f_gen_texture	/System/Library/Frameworks/GLUT.framework/Headers/tube_gc.h	/^   void (*save_n3f_gen_texture) (float *);$/;"	m	struct:__anon10	access:public
+save_v3d_gen_texture	/System/Library/Frameworks/GLUT.framework/Headers/tube_gc.h	/^   void (*save_v3d_gen_texture) (double *, int, int);$/;"	m	struct:__anon10	access:public
+save_v3f_gen_texture	/System/Library/Frameworks/GLUT.framework/Headers/tube_gc.h	/^   void (*save_v3f_gen_texture) (float *, int, int);$/;"	m	struct:__anon10	access:public
+segment_length	/System/Library/Frameworks/GLUT.framework/Headers/tube_gc.h	/^   double segment_length;$/;"	m	struct:__anon10	access:public
+segment_number	/System/Library/Frameworks/GLUT.framework/Headers/tube_gc.h	/^   int segment_number;$/;"	m	struct:__anon10	access:public
+smapConfigureSphereMapMesh	/System/Library/Frameworks/GLUT.framework/Headers/glsmap.h	/^extern void smapConfigureSphereMapMesh(SphereMap *smap, int steps, int rings, int edgeExtend);$/;"	p	signature:(SphereMap *smap, int steps, int rings, int edgeExtend)
+smapCreateSphereMap	/System/Library/Frameworks/GLUT.framework/Headers/glsmap.h	/^extern SphereMap *smapCreateSphereMap(SphereMap *shareSmap);$/;"	p	signature:(SphereMap *shareSmap)
+smapDestroySphereMap	/System/Library/Frameworks/GLUT.framework/Headers/glsmap.h	/^extern void smapDestroySphereMap(SphereMap *smap);$/;"	p	signature:(SphereMap *smap)
+smapGenSphereMap	/System/Library/Frameworks/GLUT.framework/Headers/glsmap.h	/^extern void smapGenSphereMap(SphereMap *smap);$/;"	p	signature:(SphereMap *smap)
+smapGenSphereMapFromViewTexs	/System/Library/Frameworks/GLUT.framework/Headers/glsmap.h	/^extern void smapGenSphereMapFromViewTexs(SphereMap *smap);$/;"	p	signature:(SphereMap *smap)
+smapGenSphereMapWithOneViewTex	/System/Library/Frameworks/GLUT.framework/Headers/glsmap.h	/^extern void smapGenSphereMapWithOneViewTex(SphereMap *smap);$/;"	p	signature:(SphereMap *smap)
+smapGenViewTex	/System/Library/Frameworks/GLUT.framework/Headers/glsmap.h	/^extern void smapGenViewTex(SphereMap *smap, int view);$/;"	p	signature:(SphereMap *smap, int view)
+smapGenViewTexs	/System/Library/Frameworks/GLUT.framework/Headers/glsmap.h	/^extern void smapGenViewTexs(SphereMap *smap);$/;"	p	signature:(SphereMap *smap)
+smapGetContextData	/System/Library/Frameworks/GLUT.framework/Headers/glsmap.h	/^extern void smapGetContextData(SphereMap *smap, void **context);$/;"	p	signature:(SphereMap *smap, void **context)
+smapGetDrawViewFunc	/System/Library/Frameworks/GLUT.framework/Headers/glsmap.h	/^extern void smapGetDrawViewFunc(SphereMap *smap, void (**drawView)(int view, void *context));$/;"	p	signature:(SphereMap *smap, void (**drawView)(int view, void *context))
+smapGetEye	/System/Library/Frameworks/GLUT.framework/Headers/glsmap.h	/^extern void smapGetEye(SphereMap *smap, GLfloat *eyex, GLfloat *eyey, GLfloat *eyez);$/;"	p	signature:(SphereMap *smap, GLfloat *eyex, GLfloat *eyey, GLfloat *eyez)
+smapGetEyeVector	/System/Library/Frameworks/GLUT.framework/Headers/glsmap.h	/^extern void smapGetEyeVector(SphereMap *smap, GLfloat *eye);$/;"	p	signature:(SphereMap *smap, GLfloat *eye)
+smapGetFlags	/System/Library/Frameworks/GLUT.framework/Headers/glsmap.h	/^extern void smapGetFlags(SphereMap *smap, SphereMapFlags *flags);$/;"	p	signature:(SphereMap *smap, SphereMapFlags *flags)
+smapGetNearFar	/System/Library/Frameworks/GLUT.framework/Headers/glsmap.h	/^extern void smapGetNearFar(SphereMap *smap, GLfloat *viewNear, GLfloat *viewFar);$/;"	p	signature:(SphereMap *smap, GLfloat *viewNear, GLfloat *viewFar)
+smapGetObject	/System/Library/Frameworks/GLUT.framework/Headers/glsmap.h	/^extern void smapGetObject(SphereMap *smap, GLfloat *objx, GLfloat *objy, GLfloat *objz);$/;"	p	signature:(SphereMap *smap, GLfloat *objx, GLfloat *objy, GLfloat *objz)
+smapGetObjectVector	/System/Library/Frameworks/GLUT.framework/Headers/glsmap.h	/^extern void smapGetObjectVector(SphereMap *smap, GLfloat *obj);$/;"	p	signature:(SphereMap *smap, GLfloat *obj)
+smapGetPositionLightsFunc	/System/Library/Frameworks/GLUT.framework/Headers/glsmap.h	/^extern void smapGetPositionLightsFunc(SphereMap *smap, void (**positionLights)(int view, void *context));$/;"	p	signature:(SphereMap *smap, void (**positionLights)(int view, void *context))
+smapGetSphereMapOrigin	/System/Library/Frameworks/GLUT.framework/Headers/glsmap.h	/^extern void smapGetSphereMapOrigin(SphereMap *smap, GLint *x, GLint *y);$/;"	p	signature:(SphereMap *smap, GLint *x, GLint *y)
+smapGetSphereMapTexDim	/System/Library/Frameworks/GLUT.framework/Headers/glsmap.h	/^extern void smapGetSphereMapTexDim(SphereMap *smap, GLsizei *texdim);$/;"	p	signature:(SphereMap *smap, GLsizei *texdim)
+smapGetSphereMapTexObj	/System/Library/Frameworks/GLUT.framework/Headers/glsmap.h	/^extern void smapGetSphereMapTexObj(SphereMap *smap, GLuint *texobj);$/;"	p	signature:(SphereMap *smap, GLuint *texobj)
+smapGetUp	/System/Library/Frameworks/GLUT.framework/Headers/glsmap.h	/^extern void smapGetUp(SphereMap *smap, GLfloat *upx, GLfloat *upy, GLfloat *upz);$/;"	p	signature:(SphereMap *smap, GLfloat *upx, GLfloat *upy, GLfloat *upz)
+smapGetUpVector	/System/Library/Frameworks/GLUT.framework/Headers/glsmap.h	/^extern void smapGetUpVector(SphereMap *smap, GLfloat *up);$/;"	p	signature:(SphereMap *smap, GLfloat *up)
+smapGetViewOrigin	/System/Library/Frameworks/GLUT.framework/Headers/glsmap.h	/^extern void smapGetViewOrigin(SphereMap *smap, GLint *x, GLint *y);$/;"	p	signature:(SphereMap *smap, GLint *x, GLint *y)
+smapGetViewTexDim	/System/Library/Frameworks/GLUT.framework/Headers/glsmap.h	/^extern void smapGetViewTexDim(SphereMap *smap, GLsizei *texdim);$/;"	p	signature:(SphereMap *smap, GLsizei *texdim)
+smapGetViewTexObj	/System/Library/Frameworks/GLUT.framework/Headers/glsmap.h	/^extern void smapGetViewTexObj(SphereMap *smap, GLuint *texobj);$/;"	p	signature:(SphereMap *smap, GLuint *texobj)
+smapGetViewTexObjs	/System/Library/Frameworks/GLUT.framework/Headers/glsmap.h	/^extern void smapGetViewTexObjs(SphereMap *smap, GLuint texobjs[6]);$/;"	p	signature:(SphereMap *smap, GLuint texobjs[6])
+smapOrigin	/System/Library/Frameworks/GLUT.framework/Headers/glsmapint.h	/^	int smapOrigin[2];$/;"	m	struct:_SphereMap	access:public
+smapRvecToSt	/System/Library/Frameworks/GLUT.framework/Headers/glsmap.h	/^extern int smapRvecToSt(float rvec[3], float st[2]);$/;"	p	signature:(float rvec[3], float st[2])
+smapSetContextData	/System/Library/Frameworks/GLUT.framework/Headers/glsmap.h	/^extern void smapSetContextData(SphereMap *smap, void *context);$/;"	p	signature:(SphereMap *smap, void *context)
+smapSetDrawViewFunc	/System/Library/Frameworks/GLUT.framework/Headers/glsmap.h	/^extern void smapSetDrawViewFunc(SphereMap *smap, void (*drawView)(int view, void *context));$/;"	p	signature:(SphereMap *smap, void (*drawView)(int view, void *context))
+smapSetEye	/System/Library/Frameworks/GLUT.framework/Headers/glsmap.h	/^extern void smapSetEye(SphereMap *smap, GLfloat eyex, GLfloat eyey,	GLfloat eyez);$/;"	p	signature:(SphereMap *smap, GLfloat eyex, GLfloat eyey, GLfloat eyez)
+smapSetEyeVector	/System/Library/Frameworks/GLUT.framework/Headers/glsmap.h	/^extern void smapSetEyeVector(SphereMap *smap, GLfloat *eye);$/;"	p	signature:(SphereMap *smap, GLfloat *eye)
+smapSetFlags	/System/Library/Frameworks/GLUT.framework/Headers/glsmap.h	/^extern void smapSetFlags(SphereMap *smap, SphereMapFlags flags);$/;"	p	signature:(SphereMap *smap, SphereMapFlags flags)
+smapSetNearFar	/System/Library/Frameworks/GLUT.framework/Headers/glsmap.h	/^extern void smapSetNearFar(SphereMap *smap, GLfloat viewNear, GLfloat viewFar);$/;"	p	signature:(SphereMap *smap, GLfloat viewNear, GLfloat viewFar)
+smapSetObject	/System/Library/Frameworks/GLUT.framework/Headers/glsmap.h	/^extern void smapSetObject(SphereMap *smap, GLfloat objx, GLfloat objy, GLfloat objz);$/;"	p	signature:(SphereMap *smap, GLfloat objx, GLfloat objy, GLfloat objz)
+smapSetObjectVector	/System/Library/Frameworks/GLUT.framework/Headers/glsmap.h	/^extern void smapSetObjectVector(SphereMap *smap, GLfloat *obj);$/;"	p	signature:(SphereMap *smap, GLfloat *obj)
+smapSetPositionLightsFunc	/System/Library/Frameworks/GLUT.framework/Headers/glsmap.h	/^extern void smapSetPositionLightsFunc(SphereMap *smap, void (*positionLights)(int view, void *context));$/;"	p	signature:(SphereMap *smap, void (*positionLights)(int view, void *context))
+smapSetSphereMapOrigin	/System/Library/Frameworks/GLUT.framework/Headers/glsmap.h	/^extern void smapSetSphereMapOrigin(SphereMap *smap, GLint x, GLint y);$/;"	p	signature:(SphereMap *smap, GLint x, GLint y)
+smapSetSphereMapTexDim	/System/Library/Frameworks/GLUT.framework/Headers/glsmap.h	/^extern void smapSetSphereMapTexDim(SphereMap *smap, GLsizei texdim);$/;"	p	signature:(SphereMap *smap, GLsizei texdim)
+smapSetSphereMapTexObj	/System/Library/Frameworks/GLUT.framework/Headers/glsmap.h	/^extern void smapSetSphereMapTexObj(SphereMap *smap, GLuint texobj);$/;"	p	signature:(SphereMap *smap, GLuint texobj)
+smapSetUp	/System/Library/Frameworks/GLUT.framework/Headers/glsmap.h	/^extern void smapSetUp(SphereMap *smap, GLfloat upx, GLfloat upy, GLfloat upz);$/;"	p	signature:(SphereMap *smap, GLfloat upx, GLfloat upy, GLfloat upz)
+smapSetUpVector	/System/Library/Frameworks/GLUT.framework/Headers/glsmap.h	/^extern void smapSetUpVector(SphereMap *smap, GLfloat *up);$/;"	p	signature:(SphereMap *smap, GLfloat *up)
+smapSetViewOrigin	/System/Library/Frameworks/GLUT.framework/Headers/glsmap.h	/^extern void smapSetViewOrigin(SphereMap *smap, GLint x, GLint y);$/;"	p	signature:(SphereMap *smap, GLint x, GLint y)
+smapSetViewTexDim	/System/Library/Frameworks/GLUT.framework/Headers/glsmap.h	/^extern void smapSetViewTexDim(SphereMap *smap, GLsizei texdim);$/;"	p	signature:(SphereMap *smap, GLsizei texdim)
+smapSetViewTexObj	/System/Library/Frameworks/GLUT.framework/Headers/glsmap.h	/^extern void smapSetViewTexObj(SphereMap *smap, GLuint texobj);$/;"	p	signature:(SphereMap *smap, GLuint texobj)
+smapSetViewTexObjs	/System/Library/Frameworks/GLUT.framework/Headers/glsmap.h	/^extern void smapSetViewTexObjs(SphereMap *smap, GLuint texobjs[6]);$/;"	p	signature:(SphereMap *smap, GLuint texobjs[6])
+smapStToRvec	/System/Library/Frameworks/GLUT.framework/Headers/glsmap.h	/^extern void smapStToRvec(float *st, float *rvec);$/;"	p	signature:(float *st, float *rvec)
+smapTexDim	/System/Library/Frameworks/GLUT.framework/Headers/glsmapint.h	/^	int smapTexDim;  \/* sphere map texture dimension *\/$/;"	m	struct:_SphereMap	access:public
+smapTexObj	/System/Library/Frameworks/GLUT.framework/Headers/glsmapint.h	/^	GLuint smapTexObj;$/;"	m	struct:_SphereMap	access:public
+steps	/System/Library/Frameworks/GLUT.framework/Headers/glsmapint.h	/^	int steps;$/;"	m	struct:_SphereMapMesh	access:public
+stroke	/System/Library/Frameworks/GLUT.framework/Headers/glutstroke.h	/^  const StrokeRec *stroke;$/;"	m	struct:__anon8	access:public
+t	/System/Library/Frameworks/GLUT.framework/Headers/glsmapint.h	/^	GLfloat s, t;$/;"	m	struct:_STXY	access:public
+top	/System/Library/Frameworks/GLUT.framework/Headers/glutstroke.h	/^  float top;$/;"	m	struct:__anon9	access:public
+up	/System/Library/Frameworks/GLUT.framework/Headers/glsmapint.h	/^	GLfloat up[3];$/;"	m	struct:_SphereMap	access:public
+up	/System/Library/Frameworks/GLUT.framework/Headers/tube_gc.h	/^   gleDouble *up;               \/* up vector *\/$/;"	m	struct:__anon10	access:public
+up_sanity_check	/System/Library/Frameworks/GLUT.framework/Headers/extrude.h	/^extern void up_sanity_check (gleDouble up[3],      \/* up vector for contour *\/$/;"	p	signature:(gleDouble up[3], int npoints, gleDouble point_array[][3])
+urot_about_axis_d	/System/Library/Frameworks/GLUT.framework/Headers/gutil.h	/^extern void urot_about_axis_d ();$/;"	p	signature:()
+urot_about_axis_d	/System/Library/Frameworks/GLUT.framework/Headers/gutil.h	/^extern void urot_about_axis_d (double m[4][4], double angle, double axis[3]);$/;"	p	signature:(double m[4][4], double angle, double axis[3])
+urot_about_axis_f	/System/Library/Frameworks/GLUT.framework/Headers/gutil.h	/^extern void urot_about_axis_f ();$/;"	p	signature:()
+urot_about_axis_f	/System/Library/Frameworks/GLUT.framework/Headers/gutil.h	/^extern void urot_about_axis_f (float m[4][4], float angle, float axis[3]);$/;"	p	signature:(float m[4][4], float angle, float axis[3])
+urot_axis	/System/Library/Frameworks/GLUT.framework/Headers/port.h	66;"	d
+urot_axis	/System/Library/Frameworks/GLUT.framework/Headers/port.h	76;"	d
+urot_axis_d	/System/Library/Frameworks/GLUT.framework/Headers/gutil.h	/^extern void urot_axis_d ();$/;"	p	signature:()
+urot_axis_d	/System/Library/Frameworks/GLUT.framework/Headers/gutil.h	/^extern void urot_axis_d (double m[4][4], double omega, double axis[3]);$/;"	p	signature:(double m[4][4], double omega, double axis[3])
+urot_axis_f	/System/Library/Frameworks/GLUT.framework/Headers/gutil.h	/^extern void urot_axis_f ();$/;"	p	signature:()
+urot_axis_f	/System/Library/Frameworks/GLUT.framework/Headers/gutil.h	/^extern void urot_axis_f (float m[4][4], float omega, float axis[3]);$/;"	p	signature:(float m[4][4], float omega, float axis[3])
+urot_omega_d	/System/Library/Frameworks/GLUT.framework/Headers/gutil.h	/^extern void urot_omega_d ();$/;"	p	signature:()
+urot_omega_d	/System/Library/Frameworks/GLUT.framework/Headers/gutil.h	/^extern void urot_omega_d (double m[4][4], double axis[3]);$/;"	p	signature:(double m[4][4], double axis[3])
+urot_omega_f	/System/Library/Frameworks/GLUT.framework/Headers/gutil.h	/^extern void urot_omega_f ();$/;"	p	signature:()
+urot_omega_f	/System/Library/Frameworks/GLUT.framework/Headers/gutil.h	/^extern void urot_omega_f (float m[4][4], float axis[3]);$/;"	p	signature:(float m[4][4], float axis[3])
+uview_direction	/System/Library/Frameworks/GLUT.framework/Headers/port.h	67;"	d
+uview_direction	/System/Library/Frameworks/GLUT.framework/Headers/port.h	77;"	d
+uview_direction_d	/System/Library/Frameworks/GLUT.framework/Headers/gutil.h	/^extern void uview_direction_d ();$/;"	p	signature:()
+uview_direction_d	/System/Library/Frameworks/GLUT.framework/Headers/gutil.h	/^extern void uview_direction_d (double m[4][4],		\/* returned *\/$/;"	p	signature:(double m[4][4], double v21[3], double up[3])
+uview_direction_f	/System/Library/Frameworks/GLUT.framework/Headers/gutil.h	/^extern void uview_direction_f ();$/;"	p	signature:()
+uview_direction_f	/System/Library/Frameworks/GLUT.framework/Headers/gutil.h	/^extern void uview_direction_f (float m[4][4],		\/* returned *\/$/;"	p	signature:(float m[4][4], float v21[3], float up[3])
+uviewpoint	/System/Library/Frameworks/GLUT.framework/Headers/port.h	68;"	d
+uviewpoint	/System/Library/Frameworks/GLUT.framework/Headers/port.h	78;"	d
+uviewpoint_d	/System/Library/Frameworks/GLUT.framework/Headers/gutil.h	/^extern void uviewpoint_d ();$/;"	p	signature:()
+uviewpoint_d	/System/Library/Frameworks/GLUT.framework/Headers/gutil.h	/^extern void uviewpoint_d (double m[4][4],		\/* returned *\/$/;"	p	signature:(double m[4][4], double v1[3], double v2[3], double up[3])
+uviewpoint_f	/System/Library/Frameworks/GLUT.framework/Headers/gutil.h	/^extern void uviewpoint_f ();$/;"	p	signature:()
+uviewpoint_f	/System/Library/Frameworks/GLUT.framework/Headers/gutil.h	/^extern void uviewpoint_f (float m[4][4],		\/* returned *\/$/;"	p	signature:(float m[4][4], float v1[3], float v2[3], float up[3])
+v3d_gen_texture	/System/Library/Frameworks/GLUT.framework/Headers/tube_gc.h	/^   void (*v3d_gen_texture) (double *, int, int);$/;"	m	struct:__anon10	access:public
+v3f_gen_texture	/System/Library/Frameworks/GLUT.framework/Headers/tube_gc.h	/^   void (*v3f_gen_texture) (float *, int, int);$/;"	m	struct:__anon10	access:public
+viewFar	/System/Library/Frameworks/GLUT.framework/Headers/glsmapint.h	/^	GLfloat viewFar;$/;"	m	struct:_SphereMap	access:public
+viewNear	/System/Library/Frameworks/GLUT.framework/Headers/glsmapint.h	/^	GLfloat viewNear;$/;"	m	struct:_SphereMap	access:public
+viewOrigin	/System/Library/Frameworks/GLUT.framework/Headers/glsmapint.h	/^	int viewOrigin[2];$/;"	m	struct:_SphereMap	access:public
+viewTexDim	/System/Library/Frameworks/GLUT.framework/Headers/glsmapint.h	/^	int viewTexDim;  \/* view texture dimension *\/$/;"	m	struct:_SphereMap	access:public
+viewTexObj	/System/Library/Frameworks/GLUT.framework/Headers/glsmapint.h	/^	GLuint viewTexObj;$/;"	m	struct:_SphereMap	access:public
+viewTexObjs	/System/Library/Frameworks/GLUT.framework/Headers/glsmapint.h	/^	GLuint viewTexObjs[6];$/;"	m	struct:_SphereMap	access:public
+width	/System/Library/Frameworks/GLUT.framework/Headers/glutbitmap.h	/^  const GLsizei width;$/;"	m	struct:__anon4	access:public
+x	/System/Library/Frameworks/GLUT.framework/Headers/glsmapint.h	/^	GLfloat x, y;$/;"	m	struct:_STXY	access:public
+x	/System/Library/Frameworks/GLUT.framework/Headers/glutstroke.h	/^  float x;$/;"	m	struct:__anon6	access:public
+xform_array	/System/Library/Frameworks/GLUT.framework/Headers/tube_gc.h	/^   gleAffine *xform_array;  \/* contour xforms *\/$/;"	m	struct:__anon10	access:public
+xorig	/System/Library/Frameworks/GLUT.framework/Headers/glutbitmap.h	/^  const GLfloat xorig;$/;"	m	struct:__anon4	access:public
+y	/System/Library/Frameworks/GLUT.framework/Headers/glsmapint.h	/^	GLfloat x, y;$/;"	m	struct:_STXY	access:public
+y	/System/Library/Frameworks/GLUT.framework/Headers/glutstroke.h	/^  float y;$/;"	m	struct:__anon6	access:public
+yorig	/System/Library/Frameworks/GLUT.framework/Headers/glutbitmap.h	/^  const GLfloat yorig;$/;"	m	struct:__anon4	access:public
