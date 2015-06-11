@@ -5,10 +5,10 @@
 `CMD + B` 查看方法定义
 
 `CMD + ALT + B` 查看方法实现
- 
+
 `CMD + C` 复制选中的部分，如果没有选择，就复制当前行
- 
-`CMD + SHIFT + C` 复制当前文件的绝对路径         
+
+`CMD + SHIFT + C` 复制当前文件的绝对路径
 
 `CMD + D` 复制当前行
 
@@ -275,6 +275,6 @@
 
 `CMD + SHIFT + O` 关闭其他Tab页面
 
-`CMD + CTRL` 打开数据库
+`ALT + CTRL` 打开数据库
 
 
