@@ -1,3 +1,5 @@
+### 使用方式，选择intellij菜单 File -> Export Settings -> 导入intellij-settings.jar，你可以有选择的只导入keymap
+
 ## CMD系列
 
 `CMD + A` 全选
