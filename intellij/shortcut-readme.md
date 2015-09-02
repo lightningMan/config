@@ -277,6 +277,6 @@
 
 `CMD + SHIFT + O` 关闭其他Tab页面
 
-`ALT + CTRL` 打开数据库
+`ALT + CTRL + B`  打开数据库
 
 
