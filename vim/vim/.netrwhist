@@ -1,9 +1,0 @@
-let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =7
-let g:netrw_dirhist_1='/Users/yuchao/Documents/workspace/.metadata'
-let g:netrw_dirhist_2='/Users/yuchao/.m2/repository/org/apache/maven/maven-plugin-api'
-let g:netrw_dirhist_3='/Users/yuchao/Documents/workspace/apache-tomcat-7.0.54/webapps/host-manager'
-let g:netrw_dirhist_4='/Users/yuchao/.vim/vim-stylus/indent'
-let g:netrw_dirhist_5='/Users/yuchao/.vim/bundle/nerdtree'
-let g:netrw_dirhist_6='/Applications/IntelliJIDEA.app'
-let g:netrw_dirhist_7='/private/etc/bash_completion.d'
