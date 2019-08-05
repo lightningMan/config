@@ -1,4 +1,4 @@
-我的keymap使用方式：选择intellij菜单 File -> Export Settings -> 导入settings2017.jar，你可以有选择的只导入keymap和live template
+我的keymap使用方式：选择intellij菜单 File -> Import Settings -> 导入settings2017.jar，你可以有选择的只导入keymap和live template
 
 ## CMD系列
 
